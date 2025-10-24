@@ -10,8 +10,6 @@ While this exercise is based on the Azure AI Foundry Python SDK, you can develop
 - Azure AI Projects for Microsoft .NET
 - Azure AI Projects for JavaScript
 
-This exercise takes approximately **40 minutes**.
-
 ## Deploy a model in an Azure AI Foundry project
 
 Let's start by deploying a model in an Azure AI Foundry project.
@@ -81,7 +79,7 @@ Now that you have deployed a model, you can use the Azure AI Foundry and Azure O
 8. After the repo has been cloned, navigate to the folder containing the chat application code files and view them:
 
     ```bash
-    cd aifoundry/labfiles/chat-app/python
+    cd aifoundry/Create-a-generative-AI-chat-app-Lab-03/chat-app/python
     ls -a -l
     ```
 
