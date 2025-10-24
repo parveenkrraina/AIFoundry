@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Prepare for an AI development project'
-    description: 'Learn how to organize cloud resources in Azure AI Foundry projects so that developers are set up for success when building AI solutions.'
----
-
 # Prepare for an AI development project
 
 In this exercise, you use Azure AI Foundry portal to create a project, ready to build an AI solution.
