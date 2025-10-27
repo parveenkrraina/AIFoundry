@@ -71,7 +71,7 @@ Now you're ready to create a client app that uses an agent. Some code has been p
 1. Enter the following command to change the working directory to the folder containing the code files and list them all.
 
     ```
-   cd ai-agents/samples/ai-agents/Python
+   cd ai-agents/samples/ai-agents/python
    ls -a -l
     ```
 
