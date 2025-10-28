@@ -14,7 +14,7 @@ Let's start by creating an Azure AI Foundry project.
 
 1. In a web browser, open the [Azure AI Foundry portal](https://ai.azure.com) at `https://ai.azure.com` and sign in using your Azure credentials. Close any tips or quick start panes that are opened the first time you sign in, and if necessary use the **Azure AI Foundry** logo at the top left to navigate to the home page, which looks similar to the following image (close the **Help** pane if it's open):
 
-    ![Screenshot of Azure AI Foundry portal.](./Media/ai-foundry-home.png)
+    ![Screenshot of Azure AI Foundry portal.](./media/ai-foundry-home.png)
 
 1. In the home page, select **Create an agent**.
 1. When prompted to create a project, enter a valid name for your project and expand **Advanced options**.
@@ -35,7 +35,7 @@ Let's start by creating an Azure AI Foundry project.
 
 1. In the navigation pane on the left, select **Overview** to see the main page for your project; which looks like this:
 
-    ![Screenshot of a Azure AI Foundry project overview page.](./Media/ai-foundry-project.png)
+    ![Screenshot of a Azure AI Foundry project overview page.](./media/ai-foundry-project.png)
 
 1. Copy the **Azure AI Foundry project endpoint** values to a notepad, as you'll use them to connect to your project in a client application.
 
