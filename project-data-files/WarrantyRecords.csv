@@ -1,0 +1,181 @@
+WarrantyID,ProductID,CustomerName,EmailAddress,Country,SerialNumber,PurchaseDate,ExpiryDate,Status,PurchaseChannel
+W1001,C406,Rahul Wilson,rahul.wilson@example.com,BR,SNL-C406-952547,2022-03-01,2025-02-28,Expired,Retail Partner
+W1002,C399,Arjun Martinez,arjun.martinez@example.com,AU,SNL-C399-251716,2021-01-06,2023-01-06,Expired,Retail Partner
+W1003,C332,Neha Singh,neha.singh@example.com,US,SNL-C332-127032,2021-08-14,2022-08-14,Claimed,Retail Partner
+W1004,C345,Neha Nair,neha.nair@example.com,US,SNL-C345-282710,2024-04-20,2027-04-20,Active,Direct Sales
+W1005,C316,Priya Garcia,priya.garcia@example.com,AE,SNL-C316-166645,2023-12-14,2028-12-12,Active,Marketplace
+W1006,C399,Diya Taylor,diya.taylor@example.com,ZA,SNL-C399-628313,2024-04-30,2026-04-30,Active,Retail Partner
+W1007,C305,Priya Taylor,priya.taylor@example.com,AE,SNL-C305-132663,2022-09-10,2023-09-10,Expired,Online Store
+W1008,C408,Aadhya Garcia,aadhya.garcia@example.com,IN,SNL-C408-847006,2024-11-06,2027-11-06,Active,Marketplace
+W1009,C415,Aditya Green,aditya.green@example.com,ZA,SNL-C415-232321,2024-05-30,2025-05-30,Expired,Direct Sales
+W1010,C381,Sarah Wilson,sarah.wilson@example.com,AE,SNL-C381-726410,2024-12-29,2028-12-28,Active,Direct Sales
+W1011,C364,Riya Garcia,riya.garcia@example.com,SG,SNL-C364-219971,2021-07-23,2022-07-23,Claimed,Retail Partner
+W1012,C357,Kavya Nair,kavya.nair@example.com,SG,SNL-C357-575528,2023-04-28,2027-04-27,Active,Marketplace
+W1013,C393,Vihaan Green,vihaan.green@example.com,GB,SNL-C393-367271,2023-05-25,2026-05-24,Active,Direct Sales
+W1014,C387,Ankit Brown,ankit.brown@example.com,SG,SNL-C387-189511,2021-05-18,2025-05-17,Expired,Online Store
+W1015,C312,Priya Carter,priya.carter@example.com,IN,SNL-C312-162894,2025-07-21,2030-07-20,Active,Direct Sales
+W1016,C352,Diya Garcia,diya.garcia@example.com,BR,SNL-C352-401601,2025-01-16,2030-01-15,Active,Direct Sales
+W1017,C313,Sarah Taylor,sarah.taylor@example.com,IN,SNL-C313-605612,2022-03-12,2026-03-11,Active,Retail Partner
+W1018,C344,Krish Wilson,krish.wilson@example.com,SG,SNL-C344-392099,2023-01-23,2026-01-22,Active,Retail Partner
+W1019,C408,Eva Martinez,eva.martinez@example.com,ZA,SNL-C408-683783,2024-06-10,2027-06-10,Active,Online Store
+W1020,C418,John Das,john.das@example.com,BR,SNL-C418-836833,2021-03-01,2024-02-29,Expired,Direct Sales
+W1021,C344,Aarav Singh,aarav.singh@example.com,GB,SNL-C344-520252,2021-10-21,2024-10-20,Expired,Online Store
+W1022,C394,Alice Sharma,alice.sharma@example.com,SG,SNL-C394-325583,2021-07-07,2026-07-06,Claimed,Marketplace
+W1023,C358,Anaya Singh,anaya.singh@example.com,US,SNL-C358-440140,2023-01-28,2024-01-28,Expired,Online Store
+W1024,C319,Sai Martinez,sai.martinez@example.com,SG,SNL-C319-385320,2021-04-12,2022-04-12,Claimed,Marketplace
+W1025,C362,Riya Williams,riya.williams@example.com,BR,SNL-C362-891615,2023-04-29,2024-04-28,Expired,Online Store
+W1026,C355,Vihaan Reddy,vihaan.reddy@example.com,US,SNL-C355-610271,2024-10-20,2026-10-20,Active,Direct Sales
+W1027,C328,Aadhya Martinez,aadhya.martinez@example.com,GB,SNL-C328-416061,2021-04-23,2026-04-22,Active,Retail Partner
+W1028,C397,Atharv Reddy,atharv.reddy@example.com,GB,SNL-C397-621546,2022-11-03,2026-11-02,Active,Marketplace
+W1029,C316,Aadhya Wilson,aadhya.wilson@example.com,IN,SNL-C316-685864,2024-12-12,2029-12-11,Active,Direct Sales
+W1030,C350,Krish Patel,krish.patel@example.com,ZA,SNL-C350-181644,2023-06-13,2027-06-12,Active,Direct Sales
+W1031,C354,Sarah Lee,sarah.lee@example.com,SG,SNL-C354-403578,2024-12-24,2025-12-24,Active,Online Store
+W1032,C302,Anaya Singh,anaya.singh@example.com,IN,SNL-C302-582446,2025-06-30,2026-06-30,Expired,Direct Sales
+W1033,C355,Krish Gupta,krish.gupta@example.com,SG,SNL-C355-519902,2022-05-14,2024-05-13,Expired,Online Store
+W1034,C411,Ishaan Green,ishaan.green@example.com,AU,SNL-C411-276299,2022-03-30,2024-03-29,Expired,Online Store
+W1035,C381,Vihaan Taylor,vihaan.taylor@example.com,BR,SNL-C381-913934,2023-11-11,2027-11-10,Active,Direct Sales
+W1036,C393,Rohan Verma,rohan.verma@example.com,GB,SNL-C393-368402,2022-04-29,2025-04-28,Expired,Retail Partner
+W1037,C377,Arjun Kumar,arjun.kumar@example.com,AE,SNL-C377-758452,2021-12-29,2022-12-29,Active,Marketplace
+W1038,C396,Sarah Davis,sarah.davis@example.com,BR,SNL-C396-691912,2023-07-09,2028-07-07,Active,Direct Sales
+W1039,C319,Aarohi Kumar,aarohi.kumar@example.com,ZA,SNL-C319-417530,2023-08-19,2024-08-18,Expired,Direct Sales
+W1040,C307,Diya Taylor,diya.taylor@example.com,US,SNL-C307-573866,2021-06-01,2023-06-01,Expired,Online Store
+W1041,C347,Rohan Reddy,rohan.reddy@example.com,ZA,SNL-C347-996840,2021-06-07,2023-06-07,Claimed,Online Store
+W1042,C376,Aarya Lee,aarya.lee@example.com,AE,SNL-C376-930281,2023-08-06,2025-08-05,Expired,Online Store
+W1043,C416,Neha Davis,neha.davis@example.com,AU,SNL-C416-734394,2024-08-27,2027-08-27,Active,Marketplace
+W1044,C319,Vivaan Williams,vivaan.williams@example.com,IN,SNL-C319-978053,2021-07-31,2022-07-31,Active,Direct Sales
+W1045,C364,Alice Singh,alice.singh@example.com,AU,SNL-C364-559022,2021-03-22,2022-03-22,Expired,Marketplace
+W1046,C366,Riya Singh,riya.singh@example.com,SG,SNL-C366-396635,2023-01-16,2024-01-16,Expired,Marketplace
+W1047,C399,Anaya Martinez,anaya.martinez@example.com,IN,SNL-C399-778748,2021-04-18,2023-04-18,Claimed,Direct Sales
+W1048,C342,Vihaan Wilson,vihaan.wilson@example.com,BR,SNL-C342-364236,2024-10-21,2029-10-20,Active,Retail Partner
+W1049,C310,Sarah Verma,sarah.verma@example.com,GB,SNL-C310-787923,2022-12-18,2027-12-17,Active,Marketplace
+W1050,C376,Daniel Kumar,daniel.kumar@example.com,GB,SNL-C376-774751,2022-09-27,2024-09-26,Expired,Direct Sales
+W1051,C385,Daniel Taylor,daniel.taylor@example.com,US,SNL-C385-543973,2021-07-11,2024-07-10,Claimed,Direct Sales
+W1052,C346,Ishaan Singh,ishaan.singh@example.com,DE,SNL-C346-903373,2022-03-15,2027-03-14,Active,Marketplace
+W1053,C328,Arjun Verma,arjun.verma@example.com,AU,SNL-C328-926403,2021-06-08,2026-06-07,Active,Online Store
+W1054,C398,Eva Taylor,eva.taylor@example.com,ZA,SNL-C398-903531,2021-03-19,2026-03-18,Active,Retail Partner
+W1055,C348,Arjun Singh,arjun.singh@example.com,AE,SNL-C348-908554,2022-01-06,2027-01-05,Claimed,Retail Partner
+W1056,C305,Myra Carter,myra.carter@example.com,AE,SNL-C305-565776,2024-10-17,2025-10-17,Claimed,Direct Sales
+W1057,C329,Eva Nair,eva.nair@example.com,DE,SNL-C329-922471,2022-09-26,2025-09-25,Active,Marketplace
+W1058,C347,John Davis,john.davis@example.com,AU,SNL-C347-395459,2023-06-22,2025-06-21,Expired,Marketplace
+W1059,C367,Myra Singh,myra.singh@example.com,FR,SNL-C367-734035,2025-07-31,2029-07-30,Active,Retail Partner
+W1060,C306,Alice Brown,alice.brown@example.com,FR,SNL-C306-207573,2023-01-31,2026-01-30,Active,Online Store
+W1061,C310,Rahul Singh,rahul.singh@example.com,SG,SNL-C310-638289,2022-07-13,2027-07-12,Active,Retail Partner
+W1062,C311,Ankit Nair,ankit.nair@example.com,SG,SNL-C311-466566,2025-07-31,2027-07-31,Active,Online Store
+W1063,C306,Aadhya Taylor,aadhya.taylor@example.com,DE,SNL-C306-185569,2023-02-05,2026-02-04,Active,Direct Sales
+W1064,C303,Anaya Gupta,anaya.gupta@example.com,GB,SNL-C303-451577,2025-09-15,2029-09-14,Claimed,Retail Partner
+W1065,C304,Ishaan Brown,ishaan.brown@example.com,AE,SNL-C304-895702,2024-11-26,2028-11-25,Claimed,Marketplace
+W1066,C378,Aarav Kumar,aarav.kumar@example.com,AU,SNL-C378-975522,2021-02-08,2026-02-07,Active,Retail Partner
+W1067,C393,Riya Taylor,riya.taylor@example.com,FR,SNL-C393-402096,2023-05-17,2026-05-16,Active,Retail Partner
+W1068,C315,Vivaan Nair,vivaan.nair@example.com,IN,SNL-C315-753064,2023-05-10,2024-05-09,Claimed,Marketplace
+W1069,C314,Rohan Brown,rohan.brown@example.com,GB,SNL-C314-762652,2024-05-07,2029-05-06,Active,Retail Partner
+W1070,C337,Myra Sharma,myra.sharma@example.com,GB,SNL-C337-698384,2024-06-13,2027-06-13,Active,Marketplace
+W1071,C385,John Kumar,john.kumar@example.com,SG,SNL-C385-170966,2023-12-09,2026-12-08,Expired,Online Store
+W1072,C411,Anika Patel,anika.patel@example.com,US,SNL-C411-491435,2024-07-25,2026-07-25,Active,Direct Sales
+W1073,C345,Neha Kumar,neha.kumar@example.com,ZA,SNL-C345-789023,2022-12-08,2025-12-07,Active,Online Store
+W1074,C394,Rahul Green,rahul.green@example.com,GB,SNL-C394-672536,2021-10-01,2026-09-30,Active,Direct Sales
+W1075,C406,Rahul Williams,rahul.williams@example.com,IN,SNL-C406-291132,2024-11-25,2027-11-25,Active,Retail Partner
+W1076,C391,Rahul Williams,rahul.williams@example.com,US,SNL-C391-145934,2021-03-17,2025-03-16,Expired,Retail Partner
+W1077,C340,Ankit Reddy,ankit.reddy@example.com,FR,SNL-C340-955015,2023-11-22,2025-11-21,Active,Marketplace
+W1078,C304,Rahul Iyer,rahul.iyer@example.com,BR,SNL-C304-918771,2022-08-09,2026-08-08,Active,Online Store
+W1079,C334,Vihaan Carter,vihaan.carter@example.com,SG,SNL-C334-879414,2023-06-14,2026-06-13,Claimed,Marketplace
+W1080,C343,Sai Brown,sai.brown@example.com,IN,SNL-C343-936020,2024-11-18,2028-11-17,Active,Direct Sales
+W1081,C393,Myra Kumar,myra.kumar@example.com,AU,SNL-C393-962287,2023-06-01,2026-05-31,Active,Retail Partner
+W1082,C337,Anaya Gupta,anaya.gupta@example.com,AE,SNL-C337-410000,2021-06-13,2024-06-12,Expired,Direct Sales
+W1083,C377,Daniel Garcia,daniel.garcia@example.com,US,SNL-C377-468623,2021-12-08,2022-12-08,Claimed,Marketplace
+W1084,C393,Krish Carter,krish.carter@example.com,IN,SNL-C393-387892,2024-06-13,2027-06-13,Expired,Online Store
+W1085,C385,Alice Lee,alice.lee@example.com,US,SNL-C385-886325,2023-01-15,2026-01-14,Active,Retail Partner
+W1086,C318,Krish Martinez,krish.martinez@example.com,IN,SNL-C318-136489,2024-10-20,2026-10-20,Claimed,Retail Partner
+W1087,C330,Rahul Carter,rahul.carter@example.com,ZA,SNL-C330-694799,2023-01-12,2028-01-11,Active,Online Store
+W1088,C319,John Williams,john.williams@example.com,ZA,SNL-C319-900152,2023-01-30,2024-01-30,Expired,Online Store
+W1089,C317,Aarya Carter,aarya.carter@example.com,IN,SNL-C317-392227,2023-03-27,2025-03-26,Expired,Retail Partner
+W1090,C303,Priya Singh,priya.singh@example.com,FR,SNL-C303-688956,2023-10-20,2027-10-19,Active,Online Store
+W1091,C399,Atharv Williams,atharv.williams@example.com,DE,SNL-C399-399449,2022-03-16,2024-03-15,Active,Marketplace
+W1092,C315,Arjun Kumar,arjun.kumar@example.com,IN,SNL-C315-848022,2023-07-15,2024-07-14,Expired,Marketplace
+W1093,C403,John Green,john.green@example.com,FR,SNL-C403-168093,2024-09-29,2029-09-28,Active,Direct Sales
+W1094,C408,Sai Singh,sai.singh@example.com,DE,SNL-C408-335134,2025-06-14,2028-06-13,Active,Online Store
+W1095,C401,Arjun Nair,arjun.nair@example.com,AE,SNL-C401-478427,2025-06-07,2028-06-06,Active,Direct Sales
+W1096,C402,Eva Verma,eva.verma@example.com,SG,SNL-C402-168941,2024-06-07,2025-06-07,Active,Direct Sales
+W1097,C391,Priya Brown,priya.brown@example.com,GB,SNL-C391-529322,2023-12-13,2027-12-12,Active,Online Store
+W1098,C340,Alice Kumar,alice.kumar@example.com,GB,SNL-C340-642491,2023-07-11,2025-07-10,Expired,Direct Sales
+W1099,C412,Rohan Wilson,rohan.wilson@example.com,SG,SNL-C412-905077,2024-08-03,2026-08-03,Active,Retail Partner
+W1100,C364,Ankit Patel,ankit.patel@example.com,GB,SNL-C364-260448,2025-08-30,2026-08-30,Active,Direct Sales
+W1101,C320,Anaya Nair,anaya.nair@example.com,IN,SNL-C320-644103,2022-12-10,2024-12-09,Active,Direct Sales
+W1102,C332,Reyansh Wilson,reyansh.wilson@example.com,AU,SNL-C332-417534,2022-07-17,2023-07-17,Expired,Online Store
+W1103,C382,Sai Davis,sai.davis@example.com,ZA,SNL-C382-790731,2024-04-04,2026-04-04,Active,Direct Sales
+W1104,C305,Rohan Sharma,rohan.sharma@example.com,DE,SNL-C305-772612,2021-06-16,2022-06-16,Expired,Direct Sales
+W1105,C398,Sarah Garcia,sarah.garcia@example.com,FR,SNL-C398-622230,2024-06-19,2029-06-18,Active,Direct Sales
+W1106,C361,Muhammad Lee,muhammad.lee@example.com,GB,SNL-C361-822063,2022-09-02,2026-09-01,Active,Online Store
+W1107,C356,Myra Brown,myra.brown@example.com,BR,SNL-C356-736129,2023-08-10,2027-08-09,Active,Retail Partner
+W1108,C410,Daniel Green,daniel.green@example.com,GB,SNL-C410-462147,2025-02-12,2026-02-12,Expired,Marketplace
+W1109,C397,Diya Taylor,diya.taylor@example.com,IN,SNL-C397-353480,2024-02-25,2028-02-24,Active,Marketplace
+W1110,C334,Aarohi Nair,aarohi.nair@example.com,ZA,SNL-C334-404309,2021-10-16,2024-10-15,Expired,Marketplace
+W1111,C353,Muhammad Singh,muhammad.singh@example.com,DE,SNL-C353-705748,2025-07-25,2029-07-24,Active,Direct Sales
+W1112,C397,Sai Brown,sai.brown@example.com,US,SNL-C397-423528,2023-11-21,2027-11-20,Active,Marketplace
+W1113,C311,Aadhya Taylor,aadhya.taylor@example.com,US,SNL-C311-325595,2023-07-26,2025-07-25,Active,Direct Sales
+W1114,C306,Ishaan Brown,ishaan.brown@example.com,FR,SNL-C306-786041,2024-05-08,2027-05-08,Claimed,Marketplace
+W1115,C368,Aarav Gupta,aarav.gupta@example.com,SG,SNL-C368-377319,2023-06-02,2028-05-31,Active,Direct Sales
+W1116,C346,Vivaan Lee,vivaan.lee@example.com,AU,SNL-C346-304110,2021-04-15,2026-04-14,Active,Direct Sales
+W1117,C336,Aditya Lee,aditya.lee@example.com,ZA,SNL-C336-676566,2023-10-30,2025-10-29,Expired,Direct Sales
+W1118,C387,Riya Gupta,riya.gupta@example.com,BR,SNL-C387-513037,2021-09-21,2025-09-20,Active,Direct Sales
+W1119,C371,Diya Verma,diya.verma@example.com,US,SNL-C371-520884,2022-02-12,2024-02-12,Claimed,Online Store
+W1120,C304,Arjun Green,arjun.green@example.com,ZA,SNL-C304-579187,2025-07-05,2029-07-04,Active,Retail Partner
+W1121,C414,Aarya Verma,aarya.verma@example.com,SG,SNL-C414-434002,2022-11-03,2027-11-02,Expired,Retail Partner
+W1122,C378,Priya Reddy,priya.reddy@example.com,ZA,SNL-C378-968524,2024-04-30,2029-04-29,Active,Marketplace
+W1123,C338,Anika Sharma,anika.sharma@example.com,ZA,SNL-C338-214928,2023-01-25,2025-01-24,Expired,Marketplace
+W1124,C339,Neha Sharma,neha.sharma@example.com,US,SNL-C339-787436,2024-05-07,2025-05-07,Expired,Retail Partner
+W1125,C374,Anika Singh,anika.singh@example.com,GB,SNL-C374-749840,2023-12-10,2027-12-09,Active,Marketplace
+W1126,C405,John Nair,john.nair@example.com,DE,SNL-C405-834549,2021-03-06,2026-03-05,Active,Online Store
+W1127,C302,Aarohi Green,aarohi.green@example.com,SG,SNL-C302-824042,2023-05-08,2024-05-07,Expired,Retail Partner
+W1128,C364,Rahul Martinez,rahul.martinez@example.com,GB,SNL-C364-871581,2023-08-24,2024-08-23,Active,Online Store
+W1129,C366,Reyansh Wilson,reyansh.wilson@example.com,BR,SNL-C366-601608,2022-10-28,2023-10-28,Active,Marketplace
+W1130,C322,Aarohi Wilson,aarohi.wilson@example.com,ZA,SNL-C322-808699,2022-12-03,2023-12-03,Expired,Direct Sales
+W1131,C361,Reyansh Nair,reyansh.nair@example.com,FR,SNL-C361-335790,2022-07-26,2026-07-25,Active,Direct Sales
+W1132,C390,Reyansh Brown,reyansh.brown@example.com,FR,SNL-C390-687713,2022-10-12,2026-10-11,Active,Direct Sales
+W1133,C315,Sarah Wilson,sarah.wilson@example.com,GB,SNL-C315-513697,2023-02-17,2024-02-17,Active,Direct Sales
+W1134,C337,Vivaan Reddy,vivaan.reddy@example.com,AE,SNL-C337-563864,2025-01-02,2028-01-02,Active,Direct Sales
+W1135,C327,Reyansh Wilson,reyansh.wilson@example.com,GB,SNL-C327-829988,2022-07-10,2027-07-09,Expired,Direct Sales
+W1136,C313,Riya Davis,riya.davis@example.com,DE,SNL-C313-802371,2022-05-06,2026-05-05,Active,Retail Partner
+W1137,C306,Vihaan Garcia,vihaan.garcia@example.com,US,SNL-C306-205428,2022-11-08,2025-11-07,Claimed,Retail Partner
+W1138,C370,Ankit Singh,ankit.singh@example.com,DE,SNL-C370-598807,2023-04-14,2028-04-12,Active,Marketplace
+W1139,C396,Ishaan Green,ishaan.green@example.com,ZA,SNL-C396-906066,2022-08-08,2027-08-07,Active,Online Store
+W1140,C329,Eva Patel,eva.patel@example.com,US,SNL-C329-978292,2021-12-25,2024-12-24,Expired,Retail Partner
+W1141,C407,Aadhya Brown,aadhya.brown@example.com,US,SNL-C407-403528,2022-01-17,2025-01-16,Active,Online Store
+W1142,C338,Sarah Martinez,sarah.martinez@example.com,AE,SNL-C338-451317,2021-08-08,2023-08-08,Active,Direct Sales
+W1143,C382,Eva Taylor,eva.taylor@example.com,FR,SNL-C382-240718,2023-10-09,2025-10-08,Active,Marketplace
+W1144,C324,Neha Gupta,neha.gupta@example.com,GB,SNL-C324-581206,2022-11-09,2026-11-08,Active,Direct Sales
+W1145,C301,Priya Green,priya.green@example.com,GB,SNL-C301-807160,2025-06-08,2027-06-08,Active,Retail Partner
+W1146,C378,Krish Lee,krish.lee@example.com,SG,SNL-C378-443856,2025-08-21,2030-08-20,Active,Online Store
+W1147,C385,Vihaan Singh,vihaan.singh@example.com,FR,SNL-C385-360096,2021-10-15,2024-10-14,Expired,Online Store
+W1148,C349,Muhammad Williams,muhammad.williams@example.com,ZA,SNL-C349-445637,2025-03-24,2026-03-24,Active,Direct Sales
+W1149,C392,Sarah Sharma,sarah.sharma@example.com,US,SNL-C392-826420,2022-06-20,2026-06-19,Active,Retail Partner
+W1150,C385,Vihaan Williams,vihaan.williams@example.com,IN,SNL-C385-819400,2022-09-21,2025-09-20,Expired,Direct Sales
+W1151,C381,Ankit Reddy,ankit.reddy@example.com,AE,SNL-C381-329772,2023-01-23,2027-01-22,Active,Retail Partner
+W1152,C319,Aarohi Martinez,aarohi.martinez@example.com,AU,SNL-C319-675914,2023-02-05,2024-02-05,Expired,Marketplace
+W1153,C402,John Iyer,john.iyer@example.com,AU,SNL-C402-891401,2025-04-10,2026-04-10,Active,Online Store
+W1154,C357,Aarya Carter,aarya.carter@example.com,AU,SNL-C357-217659,2021-06-09,2025-06-08,Active,Online Store
+W1155,C415,Aarya Iyer,aarya.iyer@example.com,AU,SNL-C415-272529,2024-03-18,2025-03-18,Expired,Direct Sales
+W1156,C356,Vihaan Iyer,vihaan.iyer@example.com,US,SNL-C356-195359,2025-01-08,2029-01-07,Active,Marketplace
+W1157,C358,Arjun Taylor,arjun.taylor@example.com,FR,SNL-C358-160541,2023-05-01,2024-04-30,Expired,Marketplace
+W1158,C392,Aarav Lee,aarav.lee@example.com,ZA,SNL-C392-882032,2022-06-06,2026-06-05,Claimed,Retail Partner
+W1159,C309,Vivaan Garcia,vivaan.garcia@example.com,IN,SNL-C309-667451,2022-12-07,2026-12-06,Claimed,Online Store
+W1160,C419,Anika Patel,anika.patel@example.com,SG,SNL-C419-906325,2022-08-11,2025-08-10,Expired,Retail Partner
+W1161,C347,Kavya Lee,kavya.lee@example.com,IN,SNL-C347-495833,2023-07-08,2025-07-07,Active,Marketplace
+W1162,C387,John Wilson,john.wilson@example.com,GB,SNL-C387-464663,2021-09-30,2025-09-29,Claimed,Online Store
+W1163,C368,Aadhya Taylor,aadhya.taylor@example.com,US,SNL-C368-333507,2021-09-18,2026-09-17,Claimed,Online Store
+W1164,C338,Aarohi Wilson,aarohi.wilson@example.com,DE,SNL-C338-963355,2023-05-19,2025-05-18,Expired,Retail Partner
+W1165,C358,Diya Verma,diya.verma@example.com,US,SNL-C358-860242,2022-07-19,2023-07-19,Expired,Online Store
+W1166,C403,John Garcia,john.garcia@example.com,DE,SNL-C403-116405,2024-06-13,2029-06-12,Claimed,Retail Partner
+W1167,C308,Vihaan Martinez,vihaan.martinez@example.com,DE,SNL-C308-804667,2021-03-10,2022-03-10,Expired,Online Store
+W1168,C394,Vivaan Lee,vivaan.lee@example.com,GB,SNL-C394-327823,2023-06-18,2028-06-16,Active,Online Store
+W1169,C364,Ishaan Nair,ishaan.nair@example.com,ZA,SNL-C364-704095,2025-07-29,2026-07-29,Expired,Direct Sales
+W1170,C376,Rahul Green,rahul.green@example.com,SG,SNL-C376-250219,2022-05-01,2024-04-30,Expired,Retail Partner
+W1171,C338,Atharv Patel,atharv.patel@example.com,SG,SNL-C338-870925,2024-02-15,2026-02-14,Expired,Retail Partner
+W1172,C371,Anika Patel,anika.patel@example.com,AU,SNL-C371-803953,2022-12-07,2024-12-06,Active,Marketplace
+W1173,C340,Daniel Garcia,daniel.garcia@example.com,AU,SNL-C340-494747,2023-04-17,2025-04-16,Expired,Retail Partner
+W1174,C360,Muhammad Nair,muhammad.nair@example.com,US,SNL-C360-251363,2022-09-08,2026-09-07,Claimed,Marketplace
+W1175,C371,Myra Garcia,myra.garcia@example.com,FR,SNL-C371-507286,2024-02-16,2026-02-15,Active,Retail Partner
+W1176,C326,Anaya Kumar,anaya.kumar@example.com,US,SNL-C326-196955,2023-07-11,2024-07-10,Active,Retail Partner
+W1177,C334,Aadhya Martinez,aadhya.martinez@example.com,ZA,SNL-C334-176319,2024-05-19,2027-05-19,Active,Retail Partner
+W1178,C392,John Wilson,john.wilson@example.com,US,SNL-C392-449138,2022-03-21,2026-03-20,Active,Direct Sales
+W1179,C327,Ankit Iyer,ankit.iyer@example.com,DE,SNL-C327-890973,2025-02-27,2030-02-26,Active,Marketplace
+W1180,C389,Riya Iyer,riya.iyer@example.com,FR,SNL-C389-678897,2023-03-24,2027-03-23,Expired,Direct Sales

@@ -1,0 +1,221 @@
+CustomerID,FirstName,LastName,Email,Phone,Country,City,Segment,GDPRConsent,CreatedAt
+CUST0001,Alice,Verma,alice.verma84@example.com,+39-648-196-6991,SG,Singapore,Consumer,False,2022-03-16
+CUST0002,Aditya,Kumar,aditya.kumar81@example.com,+33-192-664-7955,SG,Singapore,Consumer,True,2022-04-03
+CUST0003,Mia,Patel,mia.patel60@example.com,+33-147-670-3181,ZA,Cape Town,Consumer,True,2021-08-30
+CUST0004,Sophia,Reddy,sophia.reddy195@example.com,+44-695-684-4078,AU,Brisbane,Consumer,True,2021-05-09
+CUST0005,Sophia,Patel,sophia.patel518@example.com,+81-644-537-6146,ZA,Johannesburg,Consumer,False,2023-01-11
+CUST0006,Riya,Nair,riya.nair725@example.com,+34-349-183-5919,NL,Amsterdam,Consumer,True,2023-07-09
+CUST0007,Sarah,Martinez,sarah.martinez534@example.com,+971-268-875-6604,IN,Bengaluru,Consumer,True,2021-03-22
+CUST0008,Arjun,Harris,arjun.harris818@example.com,+39-421-448-6737,AU,Brisbane,Consumer,True,2023-07-24
+CUST0009,Arjun,Thompson,arjun.thompson495@example.com,+31-780-166-1994,IN,Hyderabad,Prosumer,True,2024-03-29
+CUST0010,Kavya,Reddy,kavya.reddy918@example.com,+81-455-123-8564,JP,Osaka,Consumer,True,2023-10-09
+CUST0011,Vihaan,Iyer,vihaan.iyer142@example.com,+31-353-507-7405,NL,Rotterdam,Enterprise,True,2021-12-07
+CUST0012,Kavya,Lee,kavya.lee914@example.com,+49-938-540-5561,AU,Melbourne,Prosumer,False,2024-10-30
+CUST0013,Rahul,Nair,rahul.nair190@example.com,+49-337-774-4822,GB,London,Consumer,True,2022-01-09
+CUST0014,Aarya,Reddy,aarya.reddy439@example.com,+27-478-724-6220,US,New York,Enterprise,True,2023-11-22
+CUST0015,James,Anderson,james.anderson65@example.com,+61-991-898-7428,CA,Montreal,Consumer,True,2023-09-14
+CUST0016,Neha,Patel,neha.patel223@example.com,+61-266-212-6571,DE,Berlin,Prosumer,True,2024-03-06
+CUST0017,Ishaan,Wilson,ishaan.wilson638@example.com,+1-172-995-4407,IN,Hyderabad,Prosumer,True,2022-06-01
+CUST0018,Daniel,Martinez,daniel.martinez135@example.com,+44-969-599-8634,BR,Rio de Janeiro,Consumer,True,2021-10-23
+CUST0019,Reyansh,White,reyansh.white281@example.com,+61-948-808-3645,BR,Brasilia,Consumer,True,2023-12-18
+CUST0020,Priya,Verma,priya.verma786@example.com,+27-405-758-2491,JP,Tokyo,Prosumer,True,2023-01-22
+CUST0021,Anaya,Carter,anaya.carter555@example.com,+27-897-614-6401,NL,Amsterdam,Prosumer,True,2022-02-04
+CUST0022,Anika,Thompson,anika.thompson214@example.com,+27-604-464-1474,SG,Singapore,Enterprise,True,2023-08-26
+CUST0023,Aarya,Iyer,aarya.iyer467@example.com,+34-840-457-6974,JP,Osaka,Consumer,True,2023-08-21
+CUST0024,Aadhya,Green,aadhya.green649@example.com,+1-960-101-8855,DE,Hamburg,Enterprise,True,2024-08-10
+CUST0025,Sai,Thompson,sai.thompson941@example.com,+971-901-828-4265,CA,Toronto,Consumer,True,2024-07-26
+CUST0026,John,Kumar,john.kumar484@example.com,+971-861-186-3602,NL,Rotterdam,Consumer,True,2021-11-06
+CUST0027,Mia,Young,mia.young636@example.com,+39-710-585-6741,AE,Dubai,Consumer,True,2021-02-13
+CUST0028,Aarav,Martin,aarav.martin549@example.com,+31-242-544-4191,JP,Tokyo,Prosumer,True,2022-05-31
+CUST0029,Myra,Reddy,myra.reddy792@example.com,+1-433-365-9918,AU,Sydney,Consumer,True,2022-12-26
+CUST0030,Ankit,Thomas,ankit.thomas856@example.com,+27-233-644-3487,ZA,Cape Town,Consumer,True,2023-06-21
+CUST0031,Diya,Martinez,diya.martinez186@example.com,+49-584-733-2971,US,New York,Consumer,True,2023-11-28
+CUST0032,Liam,Wilson,liam.wilson914@example.com,+27-158-354-4134,AE,Dubai,Consumer,True,2023-11-06
+CUST0033,Kavya,Wilson,kavya.wilson463@example.com,+65-727-617-9391,US,Seattle,Consumer,True,2023-11-07
+CUST0034,Noah,Martin,noah.martin725@example.com,+27-997-997-5253,AE,Dubai,Enterprise,True,2022-02-19
+CUST0035,Kavya,Verma,kavya.verma411@example.com,+61-423-174-4942,SG,Singapore,Consumer,True,2022-09-13
+CUST0036,Muhammad,Young,muhammad.young972@example.com,+31-758-776-6999,NL,Amsterdam,Consumer,True,2023-08-16
+CUST0037,Aarohi,White,aarohi.white916@example.com,+61-266-783-4665,IN,Gurugram,Consumer,True,2023-11-22
+CUST0038,Neha,Green,neha.green375@example.com,+65-194-839-6995,SG,Singapore,Consumer,True,2023-06-22
+CUST0039,Vivaan,Lee,vivaan.lee648@example.com,+55-624-165-2848,BR,Brasilia,Enterprise,True,2021-08-03
+CUST0040,Sai,Das,sai.das937@example.com,+34-285-376-3122,FR,Paris,Prosumer,True,2024-10-16
+CUST0041,Aarya,Lee,aarya.lee727@example.com,+65-191-385-1942,GB,Leeds,Prosumer,True,2021-05-29
+CUST0042,Eva,Sharma,eva.sharma830@example.com,+55-185-722-4643,CA,Toronto,Consumer,True,2023-07-19
+CUST0043,Aarav,Green,aarav.green958@example.com,+55-736-232-1707,AU,Melbourne,Consumer,True,2021-08-13
+CUST0044,Anaya,Das,anaya.das216@example.com,+55-743-412-9701,US,New York,Prosumer,True,2023-10-22
+CUST0045,Diya,Das,diya.das266@example.com,+1-115-118-9284,BR,Sao Paulo,Consumer,True,2023-08-31
+CUST0046,Anika,King,anika.king684@example.com,+39-765-542-9110,AE,Dubai,Consumer,True,2023-11-04
+CUST0047,Riya,Jackson,riya.jackson360@example.com,+33-952-823-3289,DE,Munich,Consumer,True,2021-04-22
+CUST0048,Atharv,Sharma,atharv.sharma768@example.com,+55-541-267-1907,IN,Chennai,Consumer,True,2023-11-03
+CUST0049,Sarah,Martinez,sarah.martinez56@example.com,+61-289-261-5407,DE,Frankfurt,Consumer,True,2022-11-05
+CUST0050,Ava,Green,ava.green998@example.com,+55-323-465-3997,DE,Berlin,Consumer,True,2023-08-31
+CUST0051,Eva,Taylor,eva.taylor264@example.com,+27-894-105-2488,CA,Toronto,Consumer,True,2023-03-30
+CUST0052,Mia,Patel,mia.patel316@example.com,+55-744-338-2384,SG,Singapore,Consumer,True,2021-11-14
+CUST0053,Isabella,Lee,isabella.lee747@example.com,+61-253-390-3371,NL,Rotterdam,Consumer,True,2023-11-17
+CUST0054,Krish,White,krish.white941@example.com,+27-870-616-1263,JP,Tokyo,Prosumer,True,2024-10-30
+CUST0055,Aarohi,Kumar,aarohi.kumar146@example.com,+81-469-207-7170,US,Seattle,Prosumer,True,2024-07-09
+CUST0056,Vivaan,Anderson,vivaan.anderson260@example.com,+61-370-103-8486,AU,Brisbane,Prosumer,True,2023-10-28
+CUST0057,Noah,Kumar,noah.kumar77@example.com,+31-854-585-5131,CA,Montreal,Prosumer,True,2022-04-26
+CUST0058,Myra,Nair,myra.nair515@example.com,+39-491-178-8848,JP,Osaka,Enterprise,True,2021-04-06
+CUST0059,James,Anderson,james.anderson89@example.com,+1-250-439-5160,CA,Toronto,Prosumer,True,2024-06-26
+CUST0060,Sophia,Verma,sophia.verma72@example.com,+61-375-788-2630,US,San Francisco,Prosumer,True,2022-08-19
+CUST0061,Liam,Reddy,liam.reddy487@example.com,+34-221-662-4264,AE,Abu Dhabi,Consumer,True,2023-08-27
+CUST0062,Vivaan,Reddy,vivaan.reddy849@example.com,+27-560-375-7338,AE,Dubai,Consumer,False,2022-03-08
+CUST0063,Arjun,Davis,arjun.davis775@example.com,+27-368-468-3172,IN,Pune,Prosumer,True,2022-07-27
+CUST0064,Muhammad,Jackson,muhammad.jackson519@example.com,+61-503-125-3606,BR,Sao Paulo,Consumer,True,2023-07-13
+CUST0065,Neha,Reddy,neha.reddy436@example.com,+65-485-423-2980,JP,Tokyo,Prosumer,True,2022-11-24
+CUST0066,Neha,Gupta,neha.gupta740@example.com,+1-857-396-5148,IT,Milan,Consumer,True,2024-04-21
+CUST0067,Arjun,Carter,arjun.carter783@example.com,+55-974-149-5597,IT,Rome,Consumer,True,2022-08-08
+CUST0068,Ishaan,Nair,ishaan.nair533@example.com,+65-294-891-7116,FR,Toulouse,Prosumer,True,2021-03-01
+CUST0069,Neha,King,neha.king746@example.com,+44-150-849-7731,IT,Milan,Consumer,True,2024-08-12
+CUST0070,Sarah,Brown,sarah.brown140@example.com,+49-583-524-6630,US,Chicago,Consumer,True,2024-08-29
+CUST0071,Aarya,Lee,aarya.lee318@example.com,+61-670-784-7461,CA,Toronto,Consumer,True,2021-06-03
+CUST0072,Myra,Taylor,myra.taylor573@example.com,+33-563-440-8372,IT,Rome,Consumer,True,2022-05-15
+CUST0073,Sai,Singh,sai.singh103@example.com,+65-344-477-5232,BR,Brasilia,Prosumer,True,2021-02-11
+CUST0074,Rohan,Lee,rohan.lee395@example.com,+55-446-870-2016,SG,Singapore,Consumer,True,2023-01-08
+CUST0075,Atharv,Thomas,atharv.thomas654@example.com,+34-983-968-4538,AU,Brisbane,Consumer,True,2023-02-27
+CUST0076,Neha,Anderson,neha.anderson986@example.com,+55-969-933-1357,AE,Abu Dhabi,Consumer,True,2023-08-28
+CUST0077,Mia,Brown,mia.brown410@example.com,+39-640-975-8670,US,Seattle,Enterprise,True,2021-08-12
+CUST0078,Aarohi,Verma,aarohi.verma974@example.com,+39-839-817-8492,GB,London,Consumer,True,2021-01-03
+CUST0079,Atharv,Nair,atharv.nair670@example.com,+31-411-231-5125,ZA,Johannesburg,Consumer,True,2021-08-18
+CUST0080,Reyansh,Kumar,reyansh.kumar407@example.com,+55-328-909-1018,FR,Lyon,Consumer,True,2023-08-02
+CUST0081,Eva,Green,eva.green496@example.com,+27-340-660-5047,CA,Toronto,Consumer,True,2024-08-23
+CUST0082,Riya,Patel,riya.patel520@example.com,+81-762-530-2328,US,New York,Consumer,True,2023-01-29
+CUST0083,Aarohi,Brown,aarohi.brown356@example.com,+31-530-471-7493,US,Boston,Consumer,True,2023-10-31
+CUST0084,Arjun,Iyer,arjun.iyer329@example.com,+34-939-298-4781,AE,Dubai,Consumer,True,2022-08-28
+CUST0085,Reyansh,Martinez,reyansh.martinez927@example.com,+33-596-527-1924,AE,Dubai,Enterprise,True,2023-03-17
+CUST0086,Vihaan,Iyer,vihaan.iyer155@example.com,+971-153-826-1985,US,Chicago,Consumer,True,2022-10-06
+CUST0087,Muhammad,Kumar,muhammad.kumar347@example.com,+33-289-768-9598,IT,Milan,Prosumer,True,2024-09-22
+CUST0088,Rahul,Thompson,rahul.thompson463@example.com,+49-211-102-2281,BR,Rio de Janeiro,Consumer,True,2021-09-11
+CUST0089,Ava,Harris,ava.harris375@example.com,+34-941-416-8085,DE,Hamburg,Consumer,True,2022-02-05
+CUST0090,Priya,Wilson,priya.wilson207@example.com,+65-472-855-8774,IT,Rome,Consumer,True,2024-07-04
+CUST0091,Neha,Patel,neha.patel485@example.com,+44-922-163-5210,SG,Singapore,Consumer,True,2024-05-25
+CUST0092,John,Carter,john.carter990@example.com,+1-144-368-6185,FR,Marseille,Enterprise,True,2024-05-04
+CUST0093,Arjun,Sharma,arjun.sharma119@example.com,+61-832-576-7332,ES,Madrid,Prosumer,False,2023-10-08
+CUST0094,Atharv,King,atharv.king18@example.com,+34-856-410-3479,AE,Dubai,Prosumer,True,2022-10-17
+CUST0095,Ankit,Carter,ankit.carter534@example.com,+33-501-870-3620,NL,Amsterdam,Consumer,True,2021-03-11
+CUST0096,David,Wilson,david.wilson174@example.com,+971-207-173-5339,AU,Melbourne,Prosumer,True,2023-05-13
+CUST0097,Emma,Jackson,emma.jackson249@example.com,+49-526-571-4849,AE,Dubai,Prosumer,True,2024-09-22
+CUST0098,Muhammad,Harris,muhammad.harris310@example.com,+55-680-374-7110,ES,Barcelona,Consumer,True,2023-06-19
+CUST0099,Anika,Singh,anika.singh167@example.com,+55-692-292-6346,DE,Munich,Consumer,True,2022-05-19
+CUST0100,Olivia,Taylor,olivia.taylor679@example.com,+61-137-204-1073,DE,Berlin,Consumer,True,2023-07-08
+CUST0101,Priya,Patel,priya.patel248@example.com,+44-151-294-4181,IT,Rome,Enterprise,True,2021-12-31
+CUST0102,Kavya,Martinez,kavya.martinez118@example.com,+81-710-826-6729,FR,Paris,Consumer,True,2021-10-17
+CUST0103,Aditya,Iyer,aditya.iyer623@example.com,+31-767-308-1186,FR,Paris,Prosumer,True,2023-02-01
+CUST0104,Diya,Martinez,diya.martinez218@example.com,+1-914-607-9979,FR,Paris,Consumer,True,2023-03-21
+CUST0105,Ava,Verma,ava.verma103@example.com,+81-267-507-5442,CA,Montreal,Consumer,True,2022-09-22
+CUST0106,Rohan,Patel,rohan.patel434@example.com,+971-118-984-6960,FR,Marseille,Prosumer,True,2023-04-10
+CUST0107,Myra,Sharma,myra.sharma443@example.com,+44-940-192-7655,SG,Singapore,Consumer,True,2021-11-29
+CUST0108,Atharv,Sharma,atharv.sharma155@example.com,+81-925-506-2458,US,Chicago,Consumer,False,2023-10-31
+CUST0109,Anaya,Verma,anaya.verma175@example.com,+27-275-168-2782,BR,Rio de Janeiro,Consumer,True,2022-02-09
+CUST0110,Riya,Verma,riya.verma944@example.com,+61-422-154-7355,ES,Madrid,Consumer,True,2021-11-25
+CUST0111,Aarohi,Martinez,aarohi.martinez859@example.com,+61-287-678-4573,SG,Singapore,Consumer,False,2021-11-17
+CUST0112,Rahul,Carter,rahul.carter262@example.com,+31-935-297-1673,IN,Pune,Enterprise,True,2024-10-08
+CUST0113,Aditya,Thomas,aditya.thomas130@example.com,+971-713-566-6017,ES,Barcelona,Prosumer,True,2022-05-26
+CUST0114,Krish,Lee,krish.lee467@example.com,+27-548-283-1382,CA,Vancouver,Consumer,False,2023-08-11
+CUST0115,Anika,Williams,anika.williams866@example.com,+49-929-584-7559,NL,Rotterdam,Consumer,True,2023-06-01
+CUST0116,Priya,Kumar,priya.kumar526@example.com,+27-772-141-1666,NL,Rotterdam,Prosumer,True,2022-10-05
+CUST0117,Olivia,Kumar,olivia.kumar926@example.com,+971-768-903-3231,US,Chicago,Consumer,True,2024-06-11
+CUST0118,Muhammad,Iyer,muhammad.iyer304@example.com,+34-914-269-4622,GB,Leeds,Consumer,True,2022-06-01
+CUST0119,Anaya,Green,anaya.green936@example.com,+39-567-247-5164,IT,Rome,Consumer,False,2022-03-03
+CUST0120,Mia,Das,mia.das336@example.com,+65-137-303-3983,ZA,Johannesburg,Consumer,True,2022-07-24
+CUST0121,Alice,Young,alice.young821@example.com,+34-370-217-9695,SG,Singapore,Consumer,True,2023-07-17
+CUST0122,Ava,Taylor,ava.taylor268@example.com,+27-744-977-7459,ZA,Johannesburg,Prosumer,True,2023-02-09
+CUST0123,Priya,Davis,priya.davis348@example.com,+34-183-552-4769,GB,Birmingham,Consumer,True,2021-04-09
+CUST0124,Sarah,Thompson,sarah.thompson327@example.com,+81-991-699-6122,AU,Melbourne,Prosumer,True,2022-03-30
+CUST0125,Ishaan,Reddy,ishaan.reddy437@example.com,+27-472-148-3163,ZA,Cape Town,Consumer,True,2021-04-04
+CUST0126,Vivaan,Patel,vivaan.patel373@example.com,+55-208-635-6851,US,Chicago,Consumer,True,2022-09-09
+CUST0127,Mia,Verma,mia.verma648@example.com,+39-586-262-3207,DE,Frankfurt,Consumer,True,2021-11-02
+CUST0128,Kavya,Gupta,kavya.gupta158@example.com,+39-781-900-5419,IN,Chennai,Consumer,True,2021-01-24
+CUST0129,Vihaan,Anderson,vihaan.anderson618@example.com,+81-692-554-9480,ES,Barcelona,Prosumer,True,2021-01-01
+CUST0130,Aditya,Patel,aditya.patel425@example.com,+49-343-263-1956,AU,Sydney,Enterprise,True,2024-06-08
+CUST0131,Ava,Thomas,ava.thomas433@example.com,+33-630-722-9305,DE,Munich,Prosumer,True,2024-06-09
+CUST0132,Diya,Taylor,diya.taylor317@example.com,+81-149-841-8830,FR,Paris,Prosumer,True,2023-06-14
+CUST0133,Ankit,Kumar,ankit.kumar189@example.com,+33-207-367-4805,JP,Osaka,Prosumer,True,2022-06-24
+CUST0134,Vihaan,Das,vihaan.das705@example.com,+971-802-907-9572,CA,Montreal,Enterprise,True,2022-03-21
+CUST0135,Sai,Young,sai.young183@example.com,+55-341-961-4322,AU,Sydney,Enterprise,True,2022-11-01
+CUST0136,Aadhya,Young,aadhya.young625@example.com,+33-488-972-9787,SG,Singapore,Consumer,True,2021-01-14
+CUST0137,Vivaan,Garcia,vivaan.garcia594@example.com,+55-908-317-7415,JP,Tokyo,Prosumer,True,2021-12-18
+CUST0138,Ishaan,Patel,ishaan.patel119@example.com,+1-265-453-3323,US,Seattle,Prosumer,True,2021-10-11
+CUST0139,Aditya,Jackson,aditya.jackson57@example.com,+44-977-704-6954,IN,Chennai,Consumer,False,2023-12-30
+CUST0140,Arjun,Young,arjun.young119@example.com,+33-310-308-2834,ES,Barcelona,Consumer,False,2024-07-22
+CUST0141,Sai,Thompson,sai.thompson498@example.com,+44-235-200-4358,NL,Rotterdam,Consumer,True,2022-06-19
+CUST0142,Vivaan,Carter,vivaan.carter59@example.com,+31-878-476-6256,FR,Marseille,Prosumer,True,2023-09-03
+CUST0143,Sarah,Martinez,sarah.martinez817@example.com,+971-131-546-9497,JP,Tokyo,Prosumer,True,2021-04-09
+CUST0144,Noah,Davis,noah.davis598@example.com,+39-394-274-8144,DE,Berlin,Consumer,True,2021-04-21
+CUST0145,Aarav,Carter,aarav.carter513@example.com,+31-915-945-4023,AE,Dubai,Enterprise,True,2023-11-22
+CUST0146,Aarya,Davis,aarya.davis844@example.com,+33-816-337-9164,GB,Birmingham,Consumer,False,2021-06-15
+CUST0147,Emma,Martin,emma.martin653@example.com,+65-464-197-7574,JP,Tokyo,Enterprise,True,2021-06-26
+CUST0148,Krish,Young,krish.young390@example.com,+33-410-369-8013,CA,Toronto,Enterprise,True,2023-02-16
+CUST0149,Aarohi,Williams,aarohi.williams366@example.com,+1-434-634-3544,GB,London,Enterprise,True,2024-02-09
+CUST0150,Alice,Singh,alice.singh715@example.com,+34-363-693-4785,AE,Abu Dhabi,Consumer,True,2022-05-03
+CUST0151,Olivia,Iyer,olivia.iyer782@example.com,+31-946-963-3532,FR,Marseille,Prosumer,False,2022-10-31
+CUST0152,Isabella,Taylor,isabella.taylor251@example.com,+65-293-364-2667,BR,Sao Paulo,Consumer,True,2022-02-05
+CUST0153,Rahul,Verma,rahul.verma760@example.com,+55-545-380-4214,GB,Birmingham,Consumer,False,2022-07-30
+CUST0154,Myra,Young,myra.young44@example.com,+1-508-974-8152,SG,Singapore,Prosumer,True,2024-07-19
+CUST0155,Sarah,Williams,sarah.williams273@example.com,+1-855-514-1090,US,New York,Prosumer,False,2023-05-31
+CUST0156,Sophia,Davis,sophia.davis876@example.com,+33-783-839-4745,JP,Osaka,Prosumer,True,2023-07-19
+CUST0157,Krish,Green,krish.green926@example.com,+971-348-901-7555,FR,Paris,Prosumer,True,2022-05-28
+CUST0158,Krish,Brown,krish.brown646@example.com,+39-519-630-3999,AE,Dubai,Enterprise,True,2021-01-22
+CUST0159,Rahul,Thompson,rahul.thompson49@example.com,+55-656-323-3635,AE,Dubai,Prosumer,False,2022-02-14
+CUST0160,Liam,Carter,liam.carter477@example.com,+27-309-834-8794,IN,Mumbai,Consumer,True,2023-01-28
+CUST0161,Liam,Green,liam.green225@example.com,+81-288-501-9417,SG,Singapore,Prosumer,True,2024-06-11
+CUST0162,Daniel,Anderson,daniel.anderson290@example.com,+971-509-162-1218,US,Austin,Consumer,False,2024-07-11
+CUST0163,Daniel,Davis,daniel.davis239@example.com,+55-859-510-9635,FR,Paris,Enterprise,False,2023-03-14
+CUST0164,Ankit,Iyer,ankit.iyer961@example.com,+34-170-929-4164,GB,Manchester,Consumer,True,2022-04-08
+CUST0165,Ishaan,Carter,ishaan.carter860@example.com,+39-914-935-7771,CA,Montreal,Consumer,True,2024-01-28
+CUST0166,Atharv,Harris,atharv.harris373@example.com,+34-971-335-5381,ES,Barcelona,Prosumer,True,2023-05-23
+CUST0167,Diya,Brown,diya.brown828@example.com,+55-466-350-5945,US,Boston,Consumer,True,2024-06-30
+CUST0168,Sai,Thomas,sai.thomas166@example.com,+55-974-494-1934,IT,Rome,Consumer,True,2022-10-27
+CUST0169,Atharv,Taylor,atharv.taylor658@example.com,+1-115-773-1188,ES,Barcelona,Consumer,True,2022-08-24
+CUST0170,Aarya,Martinez,aarya.martinez156@example.com,+39-339-290-8404,IN,Mumbai,Consumer,True,2023-04-05
+CUST0171,Noah,Singh,noah.singh694@example.com,+27-906-751-5866,ZA,Johannesburg,Consumer,True,2023-12-24
+CUST0172,Sai,White,sai.white697@example.com,+44-668-221-5333,ES,Barcelona,Consumer,True,2023-08-28
+CUST0173,Emma,Wilson,emma.wilson488@example.com,+49-817-603-5039,US,San Francisco,Consumer,True,2021-01-14
+CUST0174,Anaya,Thompson,anaya.thompson722@example.com,+1-609-781-5863,BR,Rio de Janeiro,Prosumer,True,2023-05-08
+CUST0175,Arjun,Singh,arjun.singh661@example.com,+81-129-121-1751,CA,Vancouver,Prosumer,False,2022-11-08
+CUST0176,Reyansh,Taylor,reyansh.taylor785@example.com,+49-134-318-7809,AE,Abu Dhabi,Prosumer,True,2024-09-11
+CUST0177,Priya,Green,priya.green300@example.com,+971-450-532-5121,AE,Dubai,Consumer,True,2022-08-23
+CUST0178,Daniel,Thompson,daniel.thompson351@example.com,+27-378-993-9297,AE,Abu Dhabi,Consumer,True,2023-10-06
+CUST0179,Muhammad,Green,muhammad.green740@example.com,+55-230-700-2434,DE,Frankfurt,Prosumer,True,2024-02-10
+CUST0180,Neha,Wilson,neha.wilson418@example.com,+55-211-106-1760,ZA,Johannesburg,Consumer,False,2024-05-31
+CUST0181,Vihaan,Martin,vihaan.martin636@example.com,+971-731-250-2359,AU,Brisbane,Consumer,True,2023-07-27
+CUST0182,Diya,Gupta,diya.gupta900@example.com,+1-531-893-2648,CA,Toronto,Enterprise,True,2023-01-26
+CUST0183,Atharv,Martin,atharv.martin893@example.com,+55-289-531-1561,FR,Marseille,Consumer,True,2024-08-07
+CUST0184,Mia,King,mia.king519@example.com,+1-634-140-2947,IT,Milan,Prosumer,True,2023-04-09
+CUST0185,Kavya,Kumar,kavya.kumar406@example.com,+1-706-775-3544,US,Boston,Consumer,True,2021-07-28
+CUST0186,Sai,Anderson,sai.anderson927@example.com,+49-741-115-7995,AE,Dubai,Consumer,True,2021-09-07
+CUST0187,Sai,Iyer,sai.iyer142@example.com,+61-118-382-4969,ES,Madrid,Consumer,True,2021-04-13
+CUST0188,Priya,Harris,priya.harris757@example.com,+34-186-400-9160,JP,Tokyo,Consumer,False,2022-06-05
+CUST0189,Vihaan,Jackson,vihaan.jackson72@example.com,+1-766-803-2305,US,Seattle,Consumer,True,2024-05-14
+CUST0190,Anaya,Moore,anaya.moore633@example.com,+1-423-476-8188,ES,Barcelona,Consumer,True,2021-08-28
+CUST0191,Priya,Anderson,priya.anderson498@example.com,+971-896-905-8417,GB,Leeds,Enterprise,True,2024-03-06
+CUST0192,John,Reddy,john.reddy646@example.com,+81-820-921-6440,FR,Paris,Enterprise,True,2021-02-01
+CUST0193,Ishaan,Martinez,ishaan.martinez608@example.com,+971-352-485-7346,ES,Barcelona,Prosumer,True,2022-04-25
+CUST0194,Kavya,Reddy,kavya.reddy339@example.com,+55-374-532-3576,JP,Tokyo,Consumer,True,2021-03-28
+CUST0195,Sarah,Thompson,sarah.thompson290@example.com,+39-916-926-9975,GB,Manchester,Prosumer,False,2022-12-12
+CUST0196,Noah,Kumar,noah.kumar506@example.com,+34-490-305-4834,AU,Brisbane,Consumer,True,2023-03-21
+CUST0197,Ankit,Jackson,ankit.jackson610@example.com,+34-109-910-7307,DE,Frankfurt,Consumer,True,2022-12-29
+CUST0198,Arjun,Nair,arjun.nair916@example.com,+39-634-428-8808,SG,Singapore,Consumer,True,2022-03-12
+CUST0199,Aadhya,Kumar,aadhya.kumar381@example.com,+1-677-467-7594,GB,Birmingham,Prosumer,True,2022-05-20
+CUST0200,Aditya,King,aditya.king897@example.com,+44-480-747-8592,AE,Abu Dhabi,Prosumer,True,2024-05-08
+CUST0201,Vivaan,Carter,vivaan.carter106@example.com,+1-309-991-8967,FR,Paris,Consumer,True,2022-07-28
+CUST0202,Krish,Gupta,krish.gupta270@example.com,+39-138-446-4293,AE,Dubai,Enterprise,True,2021-02-26
+CUST0203,Vihaan,Patel,vihaan.patel901@example.com,+31-569-598-2051,AU,Melbourne,Enterprise,True,2021-09-03
+CUST0204,Sai,Das,sai.das248@example.com,+81-191-785-9298,BR,Brasilia,Consumer,True,2021-11-24
+CUST0205,Priya,Nair,priya.nair186@example.com,+1-362-460-1971,JP,Tokyo,Enterprise,False,2021-04-07
+CUST0206,Aarya,Martin,aarya.martin767@example.com,+81-879-595-1913,AU,Brisbane,Consumer,True,2021-01-12
+CUST0207,Aadhya,Thomas,aadhya.thomas613@example.com,+1-551-876-2727,JP,Osaka,Consumer,True,2023-03-10
+CUST0208,Muhammad,Carter,muhammad.carter182@example.com,+61-344-926-3345,AE,Abu Dhabi,Enterprise,True,2023-08-17
+CUST0209,Aadhya,Martin,aadhya.martin959@example.com,+39-325-179-7112,US,New York,Enterprise,True,2023-07-05
+CUST0210,Reyansh,King,reyansh.king872@example.com,+1-743-176-8411,IT,Rome,Enterprise,True,2022-04-24
+CUST0211,David,Gupta,david.gupta156@example.com,+65-326-853-1929,CA,Vancouver,Consumer,True,2021-10-24
+CUST0212,Kavya,Moore,kavya.moore438@example.com,+971-352-259-1416,GB,Birmingham,Consumer,True,2022-11-17
+CUST0213,Anaya,Das,anaya.das335@example.com,+61-594-216-3512,AE,Dubai,Enterprise,True,2024-09-30
+CUST0214,Myra,Wilson,myra.wilson132@example.com,+55-872-306-6968,AE,Abu Dhabi,Consumer,True,2022-05-04
+CUST0215,Anika,Gupta,anika.gupta435@example.com,+49-158-952-5809,SG,Singapore,Consumer,True,2023-06-25
+CUST0216,Olivia,Green,olivia.green463@example.com,+1-908-952-9627,AU,Sydney,Consumer,True,2021-03-25
+CUST0217,Rohan,Iyer,rohan.iyer151@example.com,+39-284-634-4775,FR,Lyon,Prosumer,True,2021-06-12
+CUST0218,Sai,Young,sai.young789@example.com,+55-279-310-3245,ZA,Cape Town,Prosumer,True,2022-01-29
+CUST0219,Mia,Reddy,mia.reddy77@example.com,+31-850-632-7686,DE,Berlin,Prosumer,False,2023-11-28
+CUST0220,Daniel,Green,daniel.green102@example.com,+1-519-881-8808,FR,Toulouse,Consumer,True,2022-05-24

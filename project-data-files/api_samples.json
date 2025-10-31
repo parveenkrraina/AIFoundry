@@ -1,0 +1,12 @@
+{
+  "checkWarrantyRequest": {
+    "productId": "C300",
+    "customerName": "Aarav Sharma",
+    "serialNumber": "SNL-C300-654321"
+  },
+  "checkWarrantyResponse": {
+    "status": "Active",
+    "expiryDate": "2026-04-17",
+    "warrantyYears": 3
+  }
+}

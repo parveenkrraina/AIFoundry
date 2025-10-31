@@ -1,0 +1,501 @@
+ReviewID,CustomerID,ProductID,Rating,Sentiment,ReviewText,CreatedAt
+REV000001,CUST0200,C365,4,positive,Exceeded expectations for the price.,2024-03-29T12:58:29
+REV000002,CUST0099,C326,4,positive,Exceeded expectations for the price.,2023-05-11T23:54:08
+REV000003,CUST0186,C404,4,positive,Setup was straightforward.,2023-12-30T09:05:27
+REV000004,CUST0090,C335,3,neutral,Meets basic requirements.,2023-04-07T12:41:30
+REV000005,CUST0132,C412,5,positive,Exceeded expectations for the price.,2025-07-19T18:58:23
+REV000006,CUST0063,C418,3,neutral,Works as advertised.,2023-03-06T00:53:24
+REV000007,CUST0197,C350,2,negative,Not worth the cost.,2023-09-29T09:17:20
+REV000008,CUST0107,C332,5,positive,Great build quality.,2023-05-11T11:51:17
+REV000009,CUST0089,C399,5,positive,Battery life is impressive.,2025-07-08T10:14:58
+REV000010,CUST0048,C305,5,positive,Exceeded expectations for the price.,2024-05-08T04:26:50
+REV000011,CUST0048,C305,5,positive,Battery life is impressive.,2024-09-24T09:58:19
+REV000012,CUST0044,C415,1,negative,Battery drains too quickly.,2023-08-19T00:15:25
+REV000013,CUST0050,C350,4,positive,Customer support was helpful.,2023-09-17T15:15:27
+REV000014,CUST0142,C331,2,negative,Audio cracks at high volume.,2023-08-07T01:24:17
+REV000015,CUST0058,C386,2,negative,Battery drains too quickly.,2024-05-29T06:49:48
+REV000016,CUST0028,C347,4,positive,Exceeded expectations for the price.,2023-01-05T10:09:23
+REV000017,CUST0058,C307,4,positive,Battery life is impressive.,2023-02-28T14:38:03
+REV000018,CUST0149,C389,3,neutral,Decent for casual use.,2023-04-18T05:55:21
+REV000019,CUST0112,C311,4,positive,Customer support was helpful.,2023-04-08T07:26:53
+REV000020,CUST0164,C380,2,negative,Not worth the cost.,2023-03-20T04:14:05
+REV000021,CUST0103,C360,5,positive,Battery life is impressive.,2023-05-24T12:25:00
+REV000022,CUST0106,C341,4,positive,Great build quality.,2025-06-24T07:30:54
+REV000023,CUST0150,C393,2,negative,App crashes during pairing.,2025-02-09T20:37:18
+REV000024,CUST0120,C368,2,negative,Not worth the cost.,2024-04-15T15:24:38
+REV000025,CUST0054,C327,5,positive,Customer support was helpful.,2024-12-25T03:27:08
+REV000026,CUST0106,C403,5,positive,Customer support was helpful.,2025-07-06T03:01:17
+REV000027,CUST0049,C399,2,negative,App crashes during pairing.,2025-09-20T20:03:52
+REV000028,CUST0073,C413,4,positive,Crystal clear display.,2024-04-09T10:27:31
+REV000029,CUST0034,C340,4,positive,Crystal clear display.,2025-04-05T22:08:26
+REV000030,CUST0185,C300,4,positive,Customer support was helpful.,2023-06-29T22:45:37
+REV000031,CUST0034,C361,1,negative,Audio cracks at high volume.,2023-12-27T12:49:29
+REV000032,CUST0118,C327,3,neutral,Meets basic requirements.,2024-12-12T07:55:42
+REV000033,CUST0113,C388,4,positive,Battery life is impressive.,2025-06-12T05:41:47
+REV000034,CUST0184,C362,5,positive,Customer support was helpful.,2023-03-19T23:41:37
+REV000035,CUST0184,C406,3,neutral,"Nothing exceptional, nothing terrible.",2025-08-31T15:07:47
+REV000036,CUST0058,C321,4,positive,Great build quality.,2024-08-11T18:51:22
+REV000037,CUST0094,C409,3,neutral,Works as advertised.,2023-12-21T17:23:40
+REV000038,CUST0181,C350,4,positive,Great build quality.,2025-07-13T02:12:55
+REV000039,CUST0057,C413,5,positive,Battery life is impressive.,2024-04-18T10:24:01
+REV000040,CUST0049,C334,1,negative,App crashes during pairing.,2025-07-27T00:24:21
+REV000041,CUST0146,C411,1,negative,Frequent disconnects ruin the experience.,2025-01-08T11:35:32
+REV000042,CUST0158,C398,3,neutral,Meets basic requirements.,2024-04-10T04:36:28
+REV000043,CUST0107,C310,3,neutral,Decent for casual use.,2025-04-27T06:09:02
+REV000044,CUST0118,C402,2,negative,Audio cracks at high volume.,2024-09-03T20:34:05
+REV000045,CUST0003,C309,5,positive,Crystal clear display.,2023-02-20T14:15:29
+REV000046,CUST0191,C371,3,neutral,Works as advertised.,2024-02-25T23:58:29
+REV000047,CUST0076,C321,2,negative,App crashes during pairing.,2024-09-24T22:37:55
+REV000048,CUST0147,C314,4,positive,Setup was straightforward.,2023-07-07T12:25:06
+REV000049,CUST0148,C300,2,negative,Not worth the cost.,2023-03-06T12:02:27
+REV000050,CUST0124,C333,3,neutral,Average experience overall.,2024-08-28T07:56:39
+REV000051,CUST0023,C307,3,neutral,Average experience overall.,2024-07-16T22:16:09
+REV000052,CUST0211,C303,2,negative,Audio cracks at high volume.,2025-08-05T23:27:22
+REV000053,CUST0121,C374,5,positive,Battery life is impressive.,2024-04-24T08:15:43
+REV000054,CUST0027,C311,3,neutral,Meets basic requirements.,2025-07-31T07:13:17
+REV000055,CUST0195,C347,2,negative,Battery drains too quickly.,2024-08-30T07:09:09
+REV000056,CUST0079,C382,4,positive,Exceeded expectations for the price.,2023-09-30T09:23:52
+REV000057,CUST0097,C335,2,negative,Battery drains too quickly.,2024-12-07T03:37:32
+REV000058,CUST0099,C404,4,positive,Customer support was helpful.,2024-01-25T14:57:12
+REV000059,CUST0053,C333,4,positive,Customer support was helpful.,2023-06-06T18:05:32
+REV000060,CUST0050,C387,5,positive,Customer support was helpful.,2025-03-09T06:20:50
+REV000061,CUST0130,C412,4,positive,Setup was straightforward.,2024-01-29T13:14:47
+REV000062,CUST0133,C341,4,positive,Exceeded expectations for the price.,2025-03-09T21:34:42
+REV000063,CUST0164,C404,4,positive,Battery life is impressive.,2024-02-18T18:02:11
+REV000064,CUST0168,C393,5,positive,Great build quality.,2024-04-19T07:39:45
+REV000065,CUST0129,C401,4,positive,Customer support was helpful.,2024-08-06T21:11:40
+REV000066,CUST0084,C369,5,positive,Customer support was helpful.,2023-04-03T17:16:17
+REV000067,CUST0143,C333,5,positive,Battery life is impressive.,2025-02-05T09:04:20
+REV000068,CUST0055,C347,3,neutral,Works as advertised.,2023-03-30T12:21:03
+REV000069,CUST0119,C382,5,positive,Customer support was helpful.,2023-07-04T22:39:42
+REV000070,CUST0033,C306,4,positive,Battery life is impressive.,2024-04-28T08:24:58
+REV000071,CUST0099,C370,4,positive,Setup was straightforward.,2025-08-01T01:24:38
+REV000072,CUST0178,C345,4,positive,Exceeded expectations for the price.,2024-05-20T04:10:20
+REV000073,CUST0199,C352,3,neutral,Works as advertised.,2024-02-26T16:36:55
+REV000074,CUST0070,C412,2,negative,Received a defective unit.,2025-06-14T23:24:04
+REV000075,CUST0030,C398,4,positive,Battery life is impressive.,2023-09-27T15:37:52
+REV000076,CUST0094,C414,4,positive,Customer support was helpful.,2024-03-12T07:38:56
+REV000077,CUST0083,C350,4,positive,Setup was straightforward.,2024-03-28T07:39:09
+REV000078,CUST0038,C304,4,positive,Exceeded expectations for the price.,2024-10-15T12:55:55
+REV000079,CUST0074,C317,4,positive,Battery life is impressive.,2025-10-04T20:58:18
+REV000080,CUST0029,C372,1,negative,Not worth the cost.,2025-09-20T07:55:10
+REV000081,CUST0095,C306,3,neutral,Decent for casual use.,2024-03-07T01:13:35
+REV000082,CUST0075,C408,3,neutral,Meets basic requirements.,2025-02-09T03:20:16
+REV000083,CUST0216,C313,5,positive,Crystal clear display.,2024-06-23T10:14:23
+REV000084,CUST0140,C313,5,positive,Setup was straightforward.,2025-03-12T13:36:51
+REV000085,CUST0031,C331,5,positive,Exceeded expectations for the price.,2023-09-09T21:22:25
+REV000086,CUST0081,C344,3,neutral,Meets basic requirements.,2023-09-23T03:18:53
+REV000087,CUST0135,C326,4,positive,Exceeded expectations for the price.,2025-07-01T07:08:13
+REV000088,CUST0055,C320,3,neutral,"Nothing exceptional, nothing terrible.",2024-07-13T09:51:40
+REV000089,CUST0058,C340,5,positive,Setup was straightforward.,2024-02-28T01:55:31
+REV000090,CUST0151,C340,3,neutral,"Nothing exceptional, nothing terrible.",2023-11-03T13:47:00
+REV000091,CUST0067,C419,4,positive,Battery life is impressive.,2024-09-18T03:47:53
+REV000092,CUST0188,C317,2,negative,Audio cracks at high volume.,2024-07-16T00:33:44
+REV000093,CUST0017,C397,3,neutral,"Nothing exceptional, nothing terrible.",2025-01-04T02:10:24
+REV000094,CUST0186,C419,3,neutral,Average experience overall.,2025-08-25T09:11:38
+REV000095,CUST0180,C393,3,neutral,"Nothing exceptional, nothing terrible.",2025-09-16T17:15:28
+REV000096,CUST0017,C416,2,negative,Audio cracks at high volume.,2023-03-10T06:27:48
+REV000097,CUST0038,C369,2,negative,Received a defective unit.,2024-12-31T11:02:33
+REV000098,CUST0041,C392,4,positive,Customer support was helpful.,2024-10-01T14:09:24
+REV000099,CUST0196,C373,4,positive,Great build quality.,2024-08-31T09:28:09
+REV000100,CUST0151,C314,3,neutral,"Nothing exceptional, nothing terrible.",2025-04-02T07:20:58
+REV000101,CUST0048,C321,5,positive,Customer support was helpful.,2023-07-08T02:47:12
+REV000102,CUST0200,C357,3,neutral,Works as advertised.,2023-03-06T04:53:57
+REV000103,CUST0107,C313,4,positive,Customer support was helpful.,2025-05-29T23:41:43
+REV000104,CUST0095,C319,3,neutral,Meets basic requirements.,2024-07-12T22:24:26
+REV000105,CUST0006,C336,3,neutral,Average experience overall.,2023-04-19T12:50:51
+REV000106,CUST0108,C399,5,positive,Exceeded expectations for the price.,2025-07-25T08:32:01
+REV000107,CUST0150,C335,4,positive,Battery life is impressive.,2023-06-22T20:36:03
+REV000108,CUST0001,C395,5,positive,Setup was straightforward.,2025-09-28T14:51:17
+REV000109,CUST0123,C300,2,negative,Not worth the cost.,2025-09-11T17:51:35
+REV000110,CUST0174,C353,4,positive,Exceeded expectations for the price.,2024-09-19T08:00:27
+REV000111,CUST0031,C397,3,neutral,Decent for casual use.,2024-09-13T08:14:42
+REV000112,CUST0102,C384,3,neutral,Decent for casual use.,2024-06-27T06:33:24
+REV000113,CUST0181,C305,5,positive,Customer support was helpful.,2023-08-11T19:03:30
+REV000114,CUST0108,C387,4,positive,Crystal clear display.,2024-10-04T13:36:39
+REV000115,CUST0140,C316,4,positive,Great build quality.,2023-07-27T11:39:33
+REV000116,CUST0116,C330,2,negative,Not worth the cost.,2023-04-13T10:47:26
+REV000117,CUST0068,C415,5,positive,Exceeded expectations for the price.,2025-02-19T00:57:28
+REV000118,CUST0082,C358,1,negative,Received a defective unit.,2024-01-01T21:40:59
+REV000119,CUST0028,C326,4,positive,Battery life is impressive.,2023-11-29T08:08:56
+REV000120,CUST0151,C321,4,positive,Great build quality.,2023-07-25T18:24:52
+REV000121,CUST0114,C302,2,negative,Not worth the cost.,2024-01-06T19:44:06
+REV000122,CUST0162,C302,4,positive,Great build quality.,2023-02-21T23:54:45
+REV000123,CUST0115,C359,4,positive,Customer support was helpful.,2024-08-14T18:38:06
+REV000124,CUST0091,C393,5,positive,Setup was straightforward.,2025-10-02T18:51:34
+REV000125,CUST0101,C303,4,positive,Customer support was helpful.,2024-08-20T00:53:33
+REV000126,CUST0013,C319,4,positive,Great build quality.,2023-04-15T13:33:58
+REV000127,CUST0111,C315,4,positive,Crystal clear display.,2025-03-01T19:28:02
+REV000128,CUST0077,C307,3,neutral,Average experience overall.,2023-12-14T18:21:39
+REV000129,CUST0014,C343,3,neutral,Decent for casual use.,2025-06-02T21:32:20
+REV000130,CUST0202,C400,5,positive,Exceeded expectations for the price.,2024-07-12T19:10:50
+REV000131,CUST0078,C355,1,negative,Received a defective unit.,2023-04-23T03:04:53
+REV000132,CUST0162,C315,2,negative,Audio cracks at high volume.,2023-12-06T06:15:23
+REV000133,CUST0044,C355,1,negative,Not worth the cost.,2023-08-04T13:24:36
+REV000134,CUST0007,C346,3,neutral,Meets basic requirements.,2023-04-02T19:24:58
+REV000135,CUST0189,C340,5,positive,Crystal clear display.,2025-05-12T00:36:23
+REV000136,CUST0018,C329,4,positive,Exceeded expectations for the price.,2023-03-03T12:35:38
+REV000137,CUST0054,C336,4,positive,Battery life is impressive.,2023-06-21T17:26:37
+REV000138,CUST0121,C418,3,neutral,Decent for casual use.,2025-09-04T19:34:03
+REV000139,CUST0204,C339,5,positive,Great build quality.,2025-04-04T09:39:26
+REV000140,CUST0002,C317,4,positive,Setup was straightforward.,2025-05-14T15:36:22
+REV000141,CUST0039,C323,4,positive,Setup was straightforward.,2024-03-13T14:51:26
+REV000142,CUST0176,C359,5,positive,Crystal clear display.,2025-04-14T07:24:00
+REV000143,CUST0041,C403,4,positive,Setup was straightforward.,2023-09-26T19:20:18
+REV000144,CUST0202,C341,1,negative,Received a defective unit.,2024-02-21T09:55:44
+REV000145,CUST0119,C366,3,neutral,Works as advertised.,2025-09-05T16:28:44
+REV000146,CUST0152,C335,3,neutral,Works as advertised.,2025-06-27T15:23:40
+REV000147,CUST0219,C360,2,negative,App crashes during pairing.,2025-03-06T11:58:11
+REV000148,CUST0161,C326,5,positive,Battery life is impressive.,2023-12-18T12:22:46
+REV000149,CUST0053,C398,4,positive,Exceeded expectations for the price.,2024-07-30T20:53:07
+REV000150,CUST0201,C307,5,positive,Great build quality.,2025-10-18T21:31:39
+REV000151,CUST0109,C354,5,positive,Exceeded expectations for the price.,2025-09-23T23:05:16
+REV000152,CUST0071,C379,3,neutral,Average experience overall.,2024-11-01T01:06:07
+REV000153,CUST0119,C343,3,neutral,Meets basic requirements.,2024-12-07T06:42:14
+REV000154,CUST0093,C386,2,negative,Received a defective unit.,2023-10-23T00:29:57
+REV000155,CUST0207,C390,2,negative,Battery drains too quickly.,2024-03-14T23:23:42
+REV000156,CUST0071,C339,4,positive,Exceeded expectations for the price.,2025-03-12T21:40:31
+REV000157,CUST0063,C336,1,negative,Battery drains too quickly.,2023-11-02T14:43:11
+REV000158,CUST0068,C382,4,positive,Setup was straightforward.,2025-05-20T08:16:54
+REV000159,CUST0174,C376,4,positive,Great build quality.,2023-02-05T14:17:36
+REV000160,CUST0037,C355,5,positive,Customer support was helpful.,2025-08-10T10:23:24
+REV000161,CUST0215,C398,4,positive,Exceeded expectations for the price.,2024-07-03T18:36:02
+REV000162,CUST0096,C322,2,negative,Frequent disconnects ruin the experience.,2025-09-23T15:33:45
+REV000163,CUST0207,C346,4,positive,Customer support was helpful.,2025-04-15T08:15:26
+REV000164,CUST0039,C326,3,neutral,Decent for casual use.,2025-09-01T21:43:35
+REV000165,CUST0094,C361,2,negative,Not worth the cost.,2024-05-05T09:20:38
+REV000166,CUST0013,C383,5,positive,Great build quality.,2023-06-13T12:23:08
+REV000167,CUST0173,C303,1,negative,Battery drains too quickly.,2024-07-05T21:04:32
+REV000168,CUST0175,C388,3,neutral,Works as advertised.,2024-12-07T21:43:28
+REV000169,CUST0177,C302,4,positive,Great build quality.,2023-06-15T18:03:42
+REV000170,CUST0172,C388,5,positive,Great build quality.,2025-01-02T01:55:48
+REV000171,CUST0212,C362,3,neutral,Works as advertised.,2024-06-08T12:03:16
+REV000172,CUST0040,C337,4,positive,Battery life is impressive.,2023-07-19T07:50:42
+REV000173,CUST0078,C400,5,positive,Crystal clear display.,2025-05-25T05:40:14
+REV000174,CUST0128,C303,3,neutral,"Nothing exceptional, nothing terrible.",2023-11-22T02:51:49
+REV000175,CUST0168,C417,3,neutral,Works as advertised.,2023-10-27T22:44:29
+REV000176,CUST0161,C413,4,positive,Crystal clear display.,2024-11-09T11:07:23
+REV000177,CUST0210,C313,4,positive,Customer support was helpful.,2024-08-19T18:12:37
+REV000178,CUST0047,C381,2,negative,App crashes during pairing.,2023-07-27T21:31:53
+REV000179,CUST0171,C356,2,negative,Frequent disconnects ruin the experience.,2023-11-29T11:34:10
+REV000180,CUST0214,C406,4,positive,Crystal clear display.,2024-08-11T14:40:51
+REV000181,CUST0028,C323,1,negative,Frequent disconnects ruin the experience.,2024-12-21T08:26:05
+REV000182,CUST0153,C403,4,positive,Setup was straightforward.,2025-06-08T20:49:55
+REV000183,CUST0193,C392,4,positive,Exceeded expectations for the price.,2024-05-17T07:57:47
+REV000184,CUST0164,C370,3,neutral,Meets basic requirements.,2024-12-18T07:46:56
+REV000185,CUST0129,C306,3,neutral,Average experience overall.,2023-01-12T09:31:52
+REV000186,CUST0115,C313,3,neutral,Decent for casual use.,2024-08-17T08:45:59
+REV000187,CUST0081,C351,5,positive,Exceeded expectations for the price.,2025-07-07T10:20:33
+REV000188,CUST0040,C339,5,positive,Setup was straightforward.,2024-11-14T13:45:48
+REV000189,CUST0015,C311,3,neutral,Meets basic requirements.,2025-09-15T13:54:45
+REV000190,CUST0113,C413,4,positive,Battery life is impressive.,2023-04-15T22:44:24
+REV000191,CUST0100,C360,4,positive,Customer support was helpful.,2023-03-25T12:34:48
+REV000192,CUST0050,C389,5,positive,Setup was straightforward.,2024-09-13T17:08:10
+REV000193,CUST0062,C407,4,positive,Customer support was helpful.,2024-01-08T11:59:17
+REV000194,CUST0065,C379,4,positive,Battery life is impressive.,2025-01-02T18:46:09
+REV000195,CUST0105,C340,4,positive,Exceeded expectations for the price.,2025-02-12T13:41:30
+REV000196,CUST0078,C389,4,positive,Exceeded expectations for the price.,2024-01-06T15:41:26
+REV000197,CUST0012,C336,4,positive,Setup was straightforward.,2023-01-08T14:40:46
+REV000198,CUST0101,C416,3,neutral,Average experience overall.,2025-09-11T17:25:25
+REV000199,CUST0025,C319,4,positive,Customer support was helpful.,2023-03-01T11:34:43
+REV000200,CUST0217,C344,3,neutral,Average experience overall.,2023-01-02T11:15:00
+REV000201,CUST0061,C419,1,negative,Frequent disconnects ruin the experience.,2024-09-16T11:00:11
+REV000202,CUST0087,C316,3,neutral,Average experience overall.,2023-03-10T16:54:23
+REV000203,CUST0020,C405,5,positive,Customer support was helpful.,2025-06-16T23:38:13
+REV000204,CUST0190,C409,5,positive,Great build quality.,2023-03-06T04:38:38
+REV000205,CUST0060,C381,2,negative,Frequent disconnects ruin the experience.,2025-01-13T20:42:02
+REV000206,CUST0219,C367,4,positive,Exceeded expectations for the price.,2023-05-31T00:35:08
+REV000207,CUST0082,C348,2,negative,Received a defective unit.,2023-09-10T22:16:14
+REV000208,CUST0160,C379,4,positive,Great build quality.,2023-06-14T08:20:51
+REV000209,CUST0215,C331,4,positive,Battery life is impressive.,2023-01-04T12:21:04
+REV000210,CUST0197,C358,1,negative,Frequent disconnects ruin the experience.,2025-05-13T13:15:24
+REV000211,CUST0214,C328,4,positive,Exceeded expectations for the price.,2025-02-19T13:37:53
+REV000212,CUST0213,C394,4,positive,Crystal clear display.,2025-07-12T14:48:56
+REV000213,CUST0186,C419,4,positive,Crystal clear display.,2023-05-01T13:56:27
+REV000214,CUST0036,C355,4,positive,Customer support was helpful.,2025-04-27T08:37:19
+REV000215,CUST0123,C321,4,positive,Battery life is impressive.,2024-09-08T15:41:52
+REV000216,CUST0035,C335,4,positive,Crystal clear display.,2023-11-20T22:42:00
+REV000217,CUST0057,C313,1,negative,Received a defective unit.,2024-12-12T10:57:12
+REV000218,CUST0003,C407,2,negative,Not worth the cost.,2025-10-06T19:55:42
+REV000219,CUST0191,C393,4,positive,Customer support was helpful.,2024-10-28T12:03:47
+REV000220,CUST0173,C353,5,positive,Crystal clear display.,2023-05-15T03:27:48
+REV000221,CUST0050,C317,4,positive,Great build quality.,2023-05-27T01:43:42
+REV000222,CUST0145,C370,1,negative,Battery drains too quickly.,2023-06-07T13:04:58
+REV000223,CUST0186,C352,1,negative,Audio cracks at high volume.,2024-04-15T06:20:01
+REV000224,CUST0132,C359,3,neutral,Decent for casual use.,2023-08-18T15:14:26
+REV000225,CUST0157,C308,3,neutral,Meets basic requirements.,2024-06-04T04:15:23
+REV000226,CUST0008,C358,4,positive,Exceeded expectations for the price.,2023-05-03T11:54:01
+REV000227,CUST0214,C308,1,negative,Frequent disconnects ruin the experience.,2025-07-19T03:33:26
+REV000228,CUST0056,C397,2,negative,App crashes during pairing.,2024-12-08T18:52:07
+REV000229,CUST0010,C395,5,positive,Crystal clear display.,2025-06-11T11:21:19
+REV000230,CUST0140,C347,4,positive,Customer support was helpful.,2023-05-04T23:31:13
+REV000231,CUST0133,C365,5,positive,Exceeded expectations for the price.,2023-02-17T13:39:07
+REV000232,CUST0196,C314,4,positive,Setup was straightforward.,2024-10-31T04:24:12
+REV000233,CUST0071,C327,5,positive,Exceeded expectations for the price.,2023-10-07T07:51:34
+REV000234,CUST0054,C365,4,positive,Great build quality.,2024-11-17T05:13:14
+REV000235,CUST0154,C407,3,neutral,Average experience overall.,2024-01-28T11:20:18
+REV000236,CUST0191,C379,4,positive,Great build quality.,2023-02-14T01:05:25
+REV000237,CUST0148,C360,3,neutral,Works as advertised.,2023-09-09T20:50:01
+REV000238,CUST0109,C408,3,neutral,"Nothing exceptional, nothing terrible.",2025-08-25T20:55:50
+REV000239,CUST0031,C400,5,positive,Great build quality.,2024-03-01T22:46:18
+REV000240,CUST0038,C352,5,positive,Exceeded expectations for the price.,2024-10-02T15:58:36
+REV000241,CUST0041,C322,4,positive,Great build quality.,2023-12-25T12:06:27
+REV000242,CUST0124,C325,4,positive,Great build quality.,2024-05-25T15:07:25
+REV000243,CUST0162,C332,1,negative,Battery drains too quickly.,2024-06-16T05:55:08
+REV000244,CUST0157,C344,4,positive,Crystal clear display.,2023-09-08T13:53:37
+REV000245,CUST0062,C380,2,negative,Audio cracks at high volume.,2024-10-22T05:10:49
+REV000246,CUST0191,C384,4,positive,Great build quality.,2023-04-10T19:39:11
+REV000247,CUST0197,C405,4,positive,Battery life is impressive.,2023-09-08T06:45:44
+REV000248,CUST0157,C308,2,negative,Frequent disconnects ruin the experience.,2025-10-06T15:31:59
+REV000249,CUST0104,C388,4,positive,Setup was straightforward.,2024-09-25T00:50:06
+REV000250,CUST0032,C405,5,positive,Crystal clear display.,2025-09-07T23:43:54
+REV000251,CUST0116,C305,1,negative,Battery drains too quickly.,2023-12-05T17:51:58
+REV000252,CUST0100,C347,3,neutral,Works as advertised.,2024-02-09T04:34:30
+REV000253,CUST0149,C412,3,neutral,Works as advertised.,2023-10-01T20:08:24
+REV000254,CUST0019,C418,4,positive,Crystal clear display.,2023-09-16T13:05:01
+REV000255,CUST0158,C374,4,positive,Customer support was helpful.,2024-03-17T15:42:06
+REV000256,CUST0120,C330,4,positive,Setup was straightforward.,2024-06-14T20:51:01
+REV000257,CUST0020,C393,3,neutral,Works as advertised.,2023-05-23T13:09:58
+REV000258,CUST0159,C381,4,positive,Setup was straightforward.,2025-09-22T23:20:09
+REV000259,CUST0207,C302,3,neutral,Meets basic requirements.,2023-08-09T14:56:23
+REV000260,CUST0148,C378,4,positive,Crystal clear display.,2023-04-16T12:41:12
+REV000261,CUST0033,C357,4,positive,Great build quality.,2023-05-02T01:52:54
+REV000262,CUST0035,C321,1,negative,Frequent disconnects ruin the experience.,2025-04-12T03:32:28
+REV000263,CUST0190,C400,1,negative,Audio cracks at high volume.,2023-04-26T16:56:40
+REV000264,CUST0194,C329,2,negative,Frequent disconnects ruin the experience.,2025-02-05T22:12:34
+REV000265,CUST0102,C388,4,positive,Crystal clear display.,2024-02-29T19:06:51
+REV000266,CUST0173,C391,5,positive,Battery life is impressive.,2023-10-04T08:16:38
+REV000267,CUST0092,C331,5,positive,Great build quality.,2024-04-15T22:48:08
+REV000268,CUST0192,C302,3,neutral,Average experience overall.,2024-11-22T04:06:53
+REV000269,CUST0184,C321,5,positive,Exceeded expectations for the price.,2024-12-16T13:36:36
+REV000270,CUST0044,C350,3,neutral,Average experience overall.,2023-02-17T16:28:36
+REV000271,CUST0077,C373,3,neutral,Average experience overall.,2023-06-15T13:24:57
+REV000272,CUST0125,C310,5,positive,Great build quality.,2024-06-05T06:00:25
+REV000273,CUST0064,C402,3,neutral,Works as advertised.,2023-10-23T01:46:52
+REV000274,CUST0208,C395,1,negative,Frequent disconnects ruin the experience.,2023-09-03T11:59:39
+REV000275,CUST0216,C339,4,positive,Customer support was helpful.,2025-06-30T20:16:27
+REV000276,CUST0139,C413,3,neutral,Decent for casual use.,2023-10-08T13:32:30
+REV000277,CUST0139,C334,1,negative,App crashes during pairing.,2023-05-31T20:14:10
+REV000278,CUST0051,C408,5,positive,Exceeded expectations for the price.,2024-08-17T23:42:51
+REV000279,CUST0187,C308,3,neutral,Works as advertised.,2025-06-03T20:53:43
+REV000280,CUST0113,C385,4,positive,Exceeded expectations for the price.,2023-04-11T15:53:06
+REV000281,CUST0193,C373,3,neutral,Decent for casual use.,2023-07-22T01:21:13
+REV000282,CUST0012,C309,5,positive,Great build quality.,2024-07-18T21:13:55
+REV000283,CUST0134,C323,4,positive,Setup was straightforward.,2023-08-03T22:25:46
+REV000284,CUST0162,C354,3,neutral,Decent for casual use.,2024-07-29T12:35:03
+REV000285,CUST0010,C356,3,neutral,Meets basic requirements.,2023-06-23T03:59:29
+REV000286,CUST0125,C392,5,positive,Setup was straightforward.,2024-03-19T03:59:29
+REV000287,CUST0031,C323,4,positive,Exceeded expectations for the price.,2023-12-14T22:38:06
+REV000288,CUST0145,C347,4,positive,Setup was straightforward.,2024-08-19T19:16:41
+REV000289,CUST0105,C373,5,positive,Setup was straightforward.,2025-09-23T10:04:02
+REV000290,CUST0119,C328,5,positive,Great build quality.,2023-01-12T17:05:13
+REV000291,CUST0123,C407,1,negative,Not worth the cost.,2024-08-09T06:57:59
+REV000292,CUST0148,C359,5,positive,Setup was straightforward.,2024-03-13T19:48:08
+REV000293,CUST0045,C354,1,negative,App crashes during pairing.,2025-01-27T04:37:32
+REV000294,CUST0119,C337,2,negative,App crashes during pairing.,2025-05-12T15:01:47
+REV000295,CUST0135,C387,4,positive,Exceeded expectations for the price.,2024-09-20T16:03:39
+REV000296,CUST0011,C331,2,negative,App crashes during pairing.,2023-09-28T00:22:21
+REV000297,CUST0112,C350,5,positive,Battery life is impressive.,2024-11-14T22:18:16
+REV000298,CUST0196,C390,1,negative,Battery drains too quickly.,2023-04-16T11:41:41
+REV000299,CUST0196,C354,3,neutral,"Nothing exceptional, nothing terrible.",2024-12-29T19:49:38
+REV000300,CUST0163,C386,3,neutral,Decent for casual use.,2025-05-11T19:59:29
+REV000301,CUST0113,C330,1,negative,Received a defective unit.,2023-12-12T11:51:12
+REV000302,CUST0218,C414,3,neutral,Average experience overall.,2025-05-24T09:22:24
+REV000303,CUST0177,C322,4,positive,Battery life is impressive.,2023-06-20T22:52:06
+REV000304,CUST0092,C356,1,negative,App crashes during pairing.,2025-03-26T07:27:54
+REV000305,CUST0205,C362,1,negative,Received a defective unit.,2023-09-23T02:15:01
+REV000306,CUST0166,C358,4,positive,Great build quality.,2023-11-26T22:16:03
+REV000307,CUST0156,C326,2,negative,App crashes during pairing.,2024-02-17T03:13:18
+REV000308,CUST0163,C345,3,neutral,"Nothing exceptional, nothing terrible.",2023-07-24T15:21:52
+REV000309,CUST0063,C337,1,negative,App crashes during pairing.,2025-09-07T05:16:03
+REV000310,CUST0125,C386,3,neutral,Average experience overall.,2024-03-11T22:36:16
+REV000311,CUST0004,C376,4,positive,Great build quality.,2023-04-16T20:39:38
+REV000312,CUST0103,C331,2,negative,App crashes during pairing.,2025-01-18T02:37:12
+REV000313,CUST0164,C375,3,neutral,Meets basic requirements.,2023-01-17T21:37:41
+REV000314,CUST0091,C334,4,positive,Crystal clear display.,2023-02-08T00:24:19
+REV000315,CUST0174,C405,4,positive,Customer support was helpful.,2023-02-20T01:11:06
+REV000316,CUST0042,C366,4,positive,Setup was straightforward.,2025-02-14T03:53:47
+REV000317,CUST0106,C371,4,positive,Setup was straightforward.,2025-10-08T12:07:05
+REV000318,CUST0205,C341,3,neutral,"Nothing exceptional, nothing terrible.",2024-05-15T05:17:25
+REV000319,CUST0106,C316,4,positive,Great build quality.,2025-10-16T18:29:40
+REV000320,CUST0060,C321,5,positive,Setup was straightforward.,2023-12-19T11:03:43
+REV000321,CUST0119,C310,1,negative,App crashes during pairing.,2023-05-08T07:55:44
+REV000322,CUST0220,C375,3,neutral,Works as advertised.,2024-03-18T23:57:37
+REV000323,CUST0147,C368,3,neutral,Average experience overall.,2023-10-25T12:47:11
+REV000324,CUST0001,C327,3,neutral,Decent for casual use.,2025-06-25T03:06:38
+REV000325,CUST0153,C362,2,negative,Frequent disconnects ruin the experience.,2024-09-16T11:20:54
+REV000326,CUST0079,C383,1,negative,Battery drains too quickly.,2023-01-20T14:09:26
+REV000327,CUST0021,C385,3,neutral,"Nothing exceptional, nothing terrible.",2023-12-29T02:37:43
+REV000328,CUST0060,C384,1,negative,Audio cracks at high volume.,2025-03-05T19:48:09
+REV000329,CUST0219,C414,5,positive,Customer support was helpful.,2025-02-03T10:56:47
+REV000330,CUST0080,C327,4,positive,Setup was straightforward.,2025-08-23T00:46:09
+REV000331,CUST0047,C414,5,positive,Setup was straightforward.,2024-12-31T19:19:02
+REV000332,CUST0133,C318,2,negative,App crashes during pairing.,2024-02-25T22:51:45
+REV000333,CUST0108,C380,3,neutral,Decent for casual use.,2023-02-19T08:22:38
+REV000334,CUST0148,C368,3,neutral,Decent for casual use.,2024-10-03T15:50:45
+REV000335,CUST0196,C346,4,positive,Exceeded expectations for the price.,2025-06-02T06:26:42
+REV000336,CUST0210,C379,3,neutral,Average experience overall.,2024-01-06T09:25:39
+REV000337,CUST0057,C323,5,positive,Exceeded expectations for the price.,2023-08-29T11:46:09
+REV000338,CUST0094,C406,4,positive,Great build quality.,2025-07-31T09:32:28
+REV000339,CUST0041,C334,3,neutral,Meets basic requirements.,2025-05-01T01:48:07
+REV000340,CUST0052,C396,4,positive,Setup was straightforward.,2024-02-10T13:30:42
+REV000341,CUST0015,C389,3,neutral,Works as advertised.,2024-03-01T11:23:55
+REV000342,CUST0023,C330,5,positive,Setup was straightforward.,2023-08-01T22:46:49
+REV000343,CUST0078,C378,5,positive,Setup was straightforward.,2025-06-22T04:38:43
+REV000344,CUST0033,C357,3,neutral,Works as advertised.,2023-09-18T14:05:28
+REV000345,CUST0066,C364,3,neutral,Average experience overall.,2023-05-05T15:00:41
+REV000346,CUST0107,C402,4,positive,Battery life is impressive.,2024-09-27T06:00:52
+REV000347,CUST0010,C363,3,neutral,Meets basic requirements.,2025-10-24T22:08:30
+REV000348,CUST0209,C359,3,neutral,Average experience overall.,2024-02-22T18:36:15
+REV000349,CUST0111,C372,5,positive,Customer support was helpful.,2024-09-25T10:01:51
+REV000350,CUST0148,C387,1,negative,App crashes during pairing.,2023-06-11T17:16:06
+REV000351,CUST0068,C401,5,positive,Great build quality.,2023-04-20T13:43:22
+REV000352,CUST0163,C317,3,neutral,Average experience overall.,2023-08-03T22:52:37
+REV000353,CUST0105,C333,3,neutral,Meets basic requirements.,2024-08-08T09:53:06
+REV000354,CUST0206,C345,5,positive,Customer support was helpful.,2025-10-12T01:00:43
+REV000355,CUST0123,C388,4,positive,Crystal clear display.,2023-07-01T03:01:26
+REV000356,CUST0022,C324,3,neutral,"Nothing exceptional, nothing terrible.",2025-10-19T08:34:52
+REV000357,CUST0122,C320,4,positive,Customer support was helpful.,2024-07-28T02:19:54
+REV000358,CUST0089,C331,5,positive,Crystal clear display.,2023-10-27T07:49:01
+REV000359,CUST0039,C346,3,neutral,Meets basic requirements.,2024-01-29T13:30:22
+REV000360,CUST0168,C409,4,positive,Setup was straightforward.,2024-02-02T03:35:50
+REV000361,CUST0087,C394,4,positive,Battery life is impressive.,2024-07-22T23:27:58
+REV000362,CUST0113,C309,5,positive,Great build quality.,2023-04-25T01:29:22
+REV000363,CUST0107,C314,4,positive,Exceeded expectations for the price.,2025-08-27T17:45:03
+REV000364,CUST0193,C342,4,positive,Setup was straightforward.,2024-05-24T16:54:31
+REV000365,CUST0022,C402,4,positive,Exceeded expectations for the price.,2024-11-22T02:57:33
+REV000366,CUST0030,C329,3,neutral,Average experience overall.,2024-12-24T03:16:25
+REV000367,CUST0040,C405,5,positive,Setup was straightforward.,2024-10-30T23:25:08
+REV000368,CUST0018,C305,1,negative,Battery drains too quickly.,2025-04-22T19:27:18
+REV000369,CUST0003,C303,3,neutral,Average experience overall.,2023-12-28T04:05:44
+REV000370,CUST0145,C406,3,neutral,Decent for casual use.,2024-08-13T10:42:46
+REV000371,CUST0119,C331,4,positive,Great build quality.,2023-07-18T03:55:42
+REV000372,CUST0035,C380,5,positive,Customer support was helpful.,2023-11-30T21:39:38
+REV000373,CUST0171,C348,5,positive,Exceeded expectations for the price.,2023-02-25T09:53:17
+REV000374,CUST0010,C329,4,positive,Battery life is impressive.,2025-08-14T21:29:30
+REV000375,CUST0034,C404,3,neutral,Works as advertised.,2024-12-30T10:55:20
+REV000376,CUST0088,C347,4,positive,Great build quality.,2025-06-15T06:35:55
+REV000377,CUST0173,C373,4,positive,Great build quality.,2024-11-10T04:42:32
+REV000378,CUST0181,C331,3,neutral,"Nothing exceptional, nothing terrible.",2023-01-28T08:40:28
+REV000379,CUST0099,C338,4,positive,Setup was straightforward.,2024-09-04T02:27:26
+REV000380,CUST0200,C389,3,neutral,Decent for casual use.,2025-05-04T18:08:07
+REV000381,CUST0019,C334,4,positive,Customer support was helpful.,2024-01-22T03:25:22
+REV000382,CUST0027,C351,4,positive,Setup was straightforward.,2024-07-27T13:18:39
+REV000383,CUST0184,C349,4,positive,Great build quality.,2025-10-04T18:09:51
+REV000384,CUST0045,C346,3,neutral,Works as advertised.,2025-07-22T19:36:24
+REV000385,CUST0113,C318,3,neutral,Meets basic requirements.,2023-03-12T21:15:15
+REV000386,CUST0177,C382,2,negative,Frequent disconnects ruin the experience.,2025-07-14T02:23:49
+REV000387,CUST0126,C392,4,positive,Customer support was helpful.,2025-05-20T22:49:54
+REV000388,CUST0190,C410,3,neutral,Works as advertised.,2023-01-08T09:04:56
+REV000389,CUST0201,C406,5,positive,Exceeded expectations for the price.,2024-01-22T16:25:50
+REV000390,CUST0101,C364,1,negative,Battery drains too quickly.,2023-09-29T03:09:22
+REV000391,CUST0144,C393,3,neutral,Average experience overall.,2023-01-31T00:12:09
+REV000392,CUST0160,C316,1,negative,Frequent disconnects ruin the experience.,2023-05-18T11:10:23
+REV000393,CUST0066,C350,5,positive,Setup was straightforward.,2024-12-30T22:02:39
+REV000394,CUST0017,C339,3,neutral,Meets basic requirements.,2024-06-26T01:15:10
+REV000395,CUST0092,C402,3,neutral,"Nothing exceptional, nothing terrible.",2025-01-13T20:32:09
+REV000396,CUST0158,C380,5,positive,Great build quality.,2023-03-27T09:49:02
+REV000397,CUST0146,C331,5,positive,Great build quality.,2023-09-10T08:56:04
+REV000398,CUST0054,C368,3,neutral,Works as advertised.,2025-08-27T10:22:58
+REV000399,CUST0100,C359,1,negative,Audio cracks at high volume.,2023-07-24T16:33:22
+REV000400,CUST0010,C355,4,positive,Customer support was helpful.,2024-05-25T13:04:50
+REV000401,CUST0031,C366,3,neutral,"Nothing exceptional, nothing terrible.",2023-08-08T03:16:53
+REV000402,CUST0059,C407,2,negative,Received a defective unit.,2023-03-21T14:44:52
+REV000403,CUST0072,C396,4,positive,Customer support was helpful.,2024-10-18T19:48:45
+REV000404,CUST0002,C326,3,neutral,Works as advertised.,2023-12-23T09:09:11
+REV000405,CUST0209,C357,3,neutral,Works as advertised.,2025-01-03T22:18:59
+REV000406,CUST0154,C341,1,negative,Received a defective unit.,2023-08-25T12:17:09
+REV000407,CUST0188,C365,2,negative,Not worth the cost.,2024-12-03T09:51:26
+REV000408,CUST0022,C314,5,positive,Setup was straightforward.,2025-08-24T22:33:07
+REV000409,CUST0163,C376,1,negative,Not worth the cost.,2025-01-03T01:22:25
+REV000410,CUST0182,C391,4,positive,Setup was straightforward.,2023-01-21T10:12:16
+REV000411,CUST0190,C383,2,negative,Received a defective unit.,2023-12-02T05:10:48
+REV000412,CUST0187,C401,2,negative,Not worth the cost.,2024-12-11T09:55:21
+REV000413,CUST0139,C376,3,neutral,Decent for casual use.,2025-02-17T17:55:38
+REV000414,CUST0099,C396,3,neutral,Meets basic requirements.,2024-05-30T12:08:51
+REV000415,CUST0008,C338,4,positive,Exceeded expectations for the price.,2023-12-22T09:52:28
+REV000416,CUST0090,C345,4,positive,Setup was straightforward.,2025-03-07T14:18:31
+REV000417,CUST0075,C320,3,neutral,"Nothing exceptional, nothing terrible.",2025-08-12T22:25:03
+REV000418,CUST0043,C398,2,negative,Battery drains too quickly.,2023-11-14T21:26:38
+REV000419,CUST0207,C325,5,positive,Customer support was helpful.,2024-02-10T02:49:38
+REV000420,CUST0012,C318,2,negative,Frequent disconnects ruin the experience.,2023-12-18T13:29:58
+REV000421,CUST0179,C336,3,neutral,Decent for casual use.,2024-04-26T01:40:07
+REV000422,CUST0095,C338,3,neutral,Meets basic requirements.,2024-04-20T22:45:31
+REV000423,CUST0161,C321,1,negative,Received a defective unit.,2024-05-05T02:45:35
+REV000424,CUST0206,C339,1,negative,Frequent disconnects ruin the experience.,2024-05-19T22:00:41
+REV000425,CUST0105,C301,4,positive,Setup was straightforward.,2023-09-30T07:02:11
+REV000426,CUST0210,C390,5,positive,Setup was straightforward.,2024-12-18T07:29:46
+REV000427,CUST0079,C409,1,negative,Audio cracks at high volume.,2023-07-05T18:26:51
+REV000428,CUST0126,C308,4,positive,Customer support was helpful.,2025-03-20T19:15:35
+REV000429,CUST0034,C358,5,positive,Customer support was helpful.,2025-01-10T03:34:32
+REV000430,CUST0172,C407,4,positive,Exceeded expectations for the price.,2023-06-15T00:00:38
+REV000431,CUST0166,C366,4,positive,Crystal clear display.,2024-08-24T05:25:04
+REV000432,CUST0079,C347,3,neutral,Works as advertised.,2024-01-28T09:39:41
+REV000433,CUST0155,C403,5,positive,Crystal clear display.,2023-12-11T16:18:10
+REV000434,CUST0053,C371,3,neutral,"Nothing exceptional, nothing terrible.",2024-10-11T22:57:30
+REV000435,CUST0218,C383,4,positive,Great build quality.,2025-04-11T01:31:52
+REV000436,CUST0127,C395,3,neutral,Decent for casual use.,2025-08-19T04:28:33
+REV000437,CUST0008,C308,1,negative,App crashes during pairing.,2023-05-17T11:40:47
+REV000438,CUST0088,C353,4,positive,Great build quality.,2023-07-26T16:28:00
+REV000439,CUST0078,C385,1,negative,Received a defective unit.,2023-07-20T07:40:49
+REV000440,CUST0052,C336,1,negative,Not worth the cost.,2025-08-20T02:53:24
+REV000441,CUST0072,C399,1,negative,Not worth the cost.,2023-04-17T11:21:15
+REV000442,CUST0104,C350,5,positive,Customer support was helpful.,2024-06-13T09:55:03
+REV000443,CUST0130,C341,3,neutral,Works as advertised.,2023-08-13T23:36:06
+REV000444,CUST0033,C312,3,neutral,Works as advertised.,2023-03-21T13:50:59
+REV000445,CUST0040,C418,1,negative,Not worth the cost.,2023-07-29T18:42:14
+REV000446,CUST0011,C359,4,positive,Customer support was helpful.,2023-04-20T17:37:41
+REV000447,CUST0042,C407,3,neutral,Meets basic requirements.,2025-07-26T18:17:42
+REV000448,CUST0112,C393,5,positive,Setup was straightforward.,2024-01-08T06:58:12
+REV000449,CUST0180,C370,2,negative,App crashes during pairing.,2024-06-09T02:45:31
+REV000450,CUST0064,C383,3,neutral,Average experience overall.,2024-12-12T14:30:13
+REV000451,CUST0105,C378,5,positive,Exceeded expectations for the price.,2023-05-23T10:17:59
+REV000452,CUST0051,C392,3,neutral,"Nothing exceptional, nothing terrible.",2025-01-04T10:06:00
+REV000453,CUST0162,C338,3,neutral,Average experience overall.,2025-07-27T08:40:22
+REV000454,CUST0097,C359,5,positive,Battery life is impressive.,2024-09-02T19:37:01
+REV000455,CUST0019,C405,4,positive,Customer support was helpful.,2023-07-21T09:09:27
+REV000456,CUST0118,C336,4,positive,Battery life is impressive.,2023-06-16T05:15:16
+REV000457,CUST0006,C341,5,positive,Crystal clear display.,2024-06-10T09:16:31
+REV000458,CUST0078,C380,5,positive,Exceeded expectations for the price.,2024-02-01T08:57:09
+REV000459,CUST0154,C333,4,positive,Customer support was helpful.,2023-08-19T17:20:48
+REV000460,CUST0169,C348,5,positive,Crystal clear display.,2024-05-14T00:38:42
+REV000461,CUST0117,C307,3,neutral,Decent for casual use.,2023-10-19T07:22:32
+REV000462,CUST0094,C324,4,positive,Exceeded expectations for the price.,2023-01-01T04:24:41
+REV000463,CUST0182,C382,5,positive,Crystal clear display.,2024-06-18T02:01:55
+REV000464,CUST0162,C390,1,negative,Audio cracks at high volume.,2025-07-31T04:57:06
+REV000465,CUST0003,C364,1,negative,Frequent disconnects ruin the experience.,2024-05-23T01:42:51
+REV000466,CUST0086,C366,3,neutral,Decent for casual use.,2024-02-18T04:19:42
+REV000467,CUST0005,C305,5,positive,Great build quality.,2024-08-04T23:56:14
+REV000468,CUST0219,C300,4,positive,Battery life is impressive.,2024-08-10T13:55:18
+REV000469,CUST0138,C326,3,neutral,Average experience overall.,2023-01-20T13:25:47
+REV000470,CUST0034,C368,5,positive,Battery life is impressive.,2025-09-14T16:45:49
+REV000471,CUST0038,C391,4,positive,Crystal clear display.,2024-01-15T14:51:45
+REV000472,CUST0138,C374,5,positive,Customer support was helpful.,2023-03-23T02:47:18
+REV000473,CUST0216,C318,5,positive,Customer support was helpful.,2023-09-24T07:08:44
+REV000474,CUST0162,C358,4,positive,Great build quality.,2024-01-29T08:37:07
+REV000475,CUST0115,C305,4,positive,Great build quality.,2024-08-14T08:26:12
+REV000476,CUST0118,C390,3,neutral,Decent for casual use.,2023-07-27T12:41:05
+REV000477,CUST0123,C394,3,neutral,Decent for casual use.,2023-03-27T04:57:47
+REV000478,CUST0183,C327,3,neutral,Average experience overall.,2024-05-11T15:38:04
+REV000479,CUST0193,C371,5,positive,Setup was straightforward.,2025-04-22T21:29:28
+REV000480,CUST0096,C394,4,positive,Exceeded expectations for the price.,2025-04-30T22:19:14
+REV000481,CUST0166,C316,5,positive,Great build quality.,2024-12-31T11:00:56
+REV000482,CUST0199,C313,4,positive,Customer support was helpful.,2023-11-29T15:12:37
+REV000483,CUST0090,C365,4,positive,Great build quality.,2024-01-23T08:14:51
+REV000484,CUST0173,C384,1,negative,Frequent disconnects ruin the experience.,2024-05-23T04:30:40
+REV000485,CUST0208,C405,5,positive,Exceeded expectations for the price.,2023-12-19T18:42:53
+REV000486,CUST0123,C333,3,neutral,Meets basic requirements.,2023-04-16T02:35:46
+REV000487,CUST0047,C405,3,neutral,Works as advertised.,2023-11-05T06:23:25
+REV000488,CUST0190,C381,5,positive,Customer support was helpful.,2024-09-16T05:50:49
+REV000489,CUST0118,C372,3,neutral,"Nothing exceptional, nothing terrible.",2024-08-10T09:02:32
+REV000490,CUST0166,C413,3,neutral,Meets basic requirements.,2024-12-31T20:32:02
+REV000491,CUST0005,C334,3,neutral,Decent for casual use.,2024-04-28T22:27:43
+REV000492,CUST0124,C403,4,positive,Great build quality.,2025-06-09T12:59:07
+REV000493,CUST0162,C326,5,positive,Crystal clear display.,2025-07-01T15:07:03
+REV000494,CUST0092,C314,5,positive,Crystal clear display.,2023-04-17T07:44:43
+REV000495,CUST0177,C330,3,neutral,"Nothing exceptional, nothing terrible.",2023-01-19T08:05:45
+REV000496,CUST0026,C374,5,positive,Customer support was helpful.,2023-12-19T18:34:49
+REV000497,CUST0146,C342,2,negative,Audio cracks at high volume.,2025-04-23T03:50:58
+REV000498,CUST0119,C328,3,neutral,Works as advertised.,2025-10-14T04:23:46
+REV000499,CUST0145,C410,5,positive,Exceeded expectations for the price.,2024-12-17T23:08:44
+REV000500,CUST0192,C307,4,positive,Battery life is impressive.,2023-02-06T17:09:17

@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,Model,ReleaseDate,Price,WarrantyYears,SupportEmail,SKU,RegionAvailability,Status,CreatedAt,UpdatedAt
+C300,Contoso Ultra A15 Extender,Networking,A15,2021-10-13,207.52,2,support_networking@contoso.com,SKU-C300-A15,US,Active,2024-01-22T00:00:00,2024-03-06T00:00:00
+C301,Contoso Aura A20 S,Wearables,A20,2023-11-01,127.72,2,support_wearables@contoso.com,SKU-C301-A20,LATAM,Active,2022-02-12T00:00:00,2023-01-10T00:00:00
+C302,Contoso Aura B30 Mesh,Networking,B30,2025-04-04,377.2,1,support_networking@contoso.com,SKU-C302-B30,EU,Active,2022-11-28T00:00:00,2023-04-19T00:00:00
+C303,"Contoso Edge E50 55""",Television,E50,2021-07-18,574.97,4,support_tv@contoso.com,SKU-C303-E50,APAC,Active,2024-05-21T00:00:00,2024-10-03T00:00:00
+C304,Contoso Alpha E40 Charger,Accessories,E40,2021-06-11,84.07,4,support_accessories@contoso.com,SKU-C304-E40,LATAM,Active,2024-07-11T00:00:00,2025-05-23T00:00:00
+C305,Contoso Quantum D40 Case,Accessories,D40,2024-09-16,107.64,1,support_accessories@contoso.com,SKU-C305-D40,EU,Active,2021-06-13T00:00:00,2021-10-10T00:00:00
+C306,Contoso Ultra C30 Dock,Accessories,C30,2021-11-30,72.48,3,support_accessories@contoso.com,SKU-C306-C30,APAC,Active,2024-10-04T00:00:00,2025-02-17T00:00:00
+C307,Contoso Ultra D50 Extender,Networking,D50,2021-12-01,151.41,2,support_networking@contoso.com,SKU-C307-D50,MEA,Active,2024-08-03T00:00:00,2025-07-21T00:00:00
+C308,Contoso Edge E25 Pro,Wearables,E25,2022-04-15,517.28,1,support_wearables@contoso.com,SKU-C308-E25,US,Active,2023-04-02T00:00:00,2023-08-17T00:00:00
+C309,Contoso Edge X50,Audio,X50,2023-03-22,144.68,4,support_audio@contoso.com,SKU-C309-X50,MEA,Active,2021-10-13T00:00:00,2022-02-16T00:00:00
+C310,Contoso Nova E45 Extender,Networking,E45,2023-03-29,290.35,5,support_networking@contoso.com,SKU-C310-E45,APAC,Active,2021-10-11T00:00:00,2022-06-28T00:00:00
+C311,Contoso Ultra E50 Washer,Appliances,E50,2024-07-09,1776.76,2,support_appliances@contoso.com,SKU-C311-E50,EU,Active,2023-05-15T00:00:00,2024-03-15T00:00:00
+C312,Contoso Aura C30 Pro,Audio,C30,2021-01-24,287.1,5,support_audio@contoso.com,SKU-C312-C30,US,Active,2024-01-05T00:00:00,2024-05-20T00:00:00
+C313,Contoso Quantum A45 Dock,Accessories,A45,2021-01-07,69.87,4,support_accessories@contoso.com,SKU-C313-A45,APAC,Discontinued,2025-04-10T00:00:00,2025-07-10T00:00:00
+C314,Contoso Ultra X35 Pro,Wearables,X35,2024-06-01,516.67,5,support_wearables@contoso.com,SKU-C314-X35,EU,Active,2025-04-11T00:00:00,2025-07-02T00:00:00
+C315,Contoso Alpha D50 Pro,Wearables,D50,2023-01-14,333.07,1,support_wearables@contoso.com,SKU-C315-D50,APAC,Active,2022-05-09T00:00:00,2023-02-23T00:00:00
+C316,Contoso Ultra E40 Pro,Audio,E40,2025-04-18,416.21,5,support_audio@contoso.com,SKU-C316-E40,EU,Active,2023-09-01T00:00:00,2024-06-08T00:00:00
+C317,"Contoso Nova D25 75""",Television,D25,2024-01-10,1441.47,2,support_tv@contoso.com,SKU-C317-D25,EU,Active,2023-03-29T00:00:00,2024-03-06T00:00:00
+C318,Contoso Quantum C50 Extender,Networking,C50,2022-04-06,302.8,2,support_networking@contoso.com,SKU-C318-C50,US,Active,2024-04-19T00:00:00,2025-01-27T00:00:00
+C319,"Contoso Edge A10 43""",Television,A10,2022-04-14,2210.17,1,support_tv@contoso.com,SKU-C319-A10,US,Discontinued,2022-11-08T00:00:00,2022-12-14T00:00:00
+C320,Contoso Edge B45,Wearables,B45,2025-01-21,190.4,2,support_wearables@contoso.com,SKU-C320-B45,LATAM,Active,2022-05-13T00:00:00,2023-01-10T00:00:00
+C321,Contoso Aura B20 Cable,Accessories,B20,2022-12-27,22.57,4,support_accessories@contoso.com,SKU-C321-B20,MEA,Active,2025-02-02T00:00:00,2025-03-01T00:00:00
+C322,Contoso Ultra A25 Mesh,Networking,A25,2022-05-25,452.24,1,support_networking@contoso.com,SKU-C322-A25,EU,Active,2023-07-08T00:00:00,2023-09-17T00:00:00
+C323,Contoso Prime B45 Oven,Appliances,B45,2023-06-27,798.69,1,support_appliances@contoso.com,SKU-C323-B45,LATAM,Active,2024-08-28T00:00:00,2025-05-31T00:00:00
+C324,Contoso Alpha A35 Case,Accessories,A35,2023-09-13,32.28,4,support_accessories@contoso.com,SKU-C324-A35,EU,Discontinued,2021-05-01T00:00:00,2021-07-24T00:00:00
+C325,Contoso Alpha C30 Fridge,Appliances,C30,2022-08-08,1881.43,4,support_appliances@contoso.com,SKU-C325-C30,MEA,Active,2025-02-05T00:00:00,2025-11-16T00:00:00
+C326,Contoso Pulse A55 Router,Networking,A55,2024-04-01,219.22,1,support_networking@contoso.com,SKU-C326-A55,LATAM,Active,2022-10-05T00:00:00,2022-11-03T00:00:00
+C327,Contoso Pulse D20 Plus,Audio,D20,2021-06-14,74.6,5,support_audio@contoso.com,SKU-C327-D20,EU,Active,2021-05-20T00:00:00,2022-04-30T00:00:00
+C328,Contoso Edge C35 Cable,Accessories,C35,2022-05-20,140.82,5,support_accessories@contoso.com,SKU-C328-C35,LATAM,Active,2024-06-22T00:00:00,2024-08-02T00:00:00
+C329,Contoso Quantum X55 Fridge,Appliances,X55,2022-05-04,725.81,3,support_appliances@contoso.com,SKU-C329-X55,APAC,Active,2024-10-07T00:00:00,2025-09-02T00:00:00
+C330,Contoso Pulse C10 Hub,Smart Devices,C10,2024-02-28,42.35,5,support_home@contoso.com,SKU-C330-C10,US,Active,2022-03-13T00:00:00,2022-11-27T00:00:00
+C331,Contoso Prime X55 Thermostat,Smart Devices,X55,2023-01-27,356.11,2,support_home@contoso.com,SKU-C331-X55,APAC,Active,2024-01-18T00:00:00,2025-01-12T00:00:00
+C332,Contoso Alpha E20 Thermostat,Smart Devices,E20,2021-10-03,374.43,1,support_home@contoso.com,SKU-C332-E20,APAC,Active,2021-08-08T00:00:00,2022-05-18T00:00:00
+C333,"Contoso Nova B50 75""",Television,B50,2022-02-21,867.7,3,support_tv@contoso.com,SKU-C333-B50,APAC,Active,2022-05-30T00:00:00,2022-06-25T00:00:00
+C334,Contoso Aura X25,Audio,X25,2025-04-29,68.84,3,support_audio@contoso.com,SKU-C334-X25,EU,Active,2022-06-21T00:00:00,2022-09-11T00:00:00
+C335,Contoso Pulse D35 Extender,Networking,D35,2021-08-18,289.95,1,support_networking@contoso.com,SKU-C335-D35,US,Discontinued,2024-11-16T00:00:00,2025-01-31T00:00:00
+C336,Contoso Alpha X25 Pro,Wearables,X25,2023-05-31,381.9,2,support_wearables@contoso.com,SKU-C336-X25,EU,Active,2023-01-17T00:00:00,2023-02-06T00:00:00
+C337,Contoso Edge E25 Light,Smart Devices,E25,2025-05-17,279.1,3,support_home@contoso.com,SKU-C337-E25,LATAM,Discontinued,2023-04-13T00:00:00,2024-02-24T00:00:00
+C338,Contoso Prime X55 Router,Networking,X55,2023-04-25,525.89,2,support_networking@contoso.com,SKU-C338-X55,US,Active,2022-11-12T00:00:00,2023-06-10T00:00:00
+C339,Contoso Edge B45 Case,Accessories,B45,2023-02-23,119.23,1,support_accessories@contoso.com,SKU-C339-B45,US,Discontinued,2022-04-01T00:00:00,2022-07-12T00:00:00
+C340,Contoso Pulse C20 Dock,Accessories,C20,2022-04-02,123.88,2,support_accessories@contoso.com,SKU-C340-C20,US,Active,2023-03-28T00:00:00,2023-09-12T00:00:00
+C341,Contoso Ultra E55 Thermostat,Smart Devices,E55,2023-03-30,165.41,5,support_home@contoso.com,SKU-C341-E55,LATAM,Active,2021-02-26T00:00:00,2021-04-26T00:00:00
+C342,Contoso Prime D45 Thermostat,Smart Devices,D45,2023-06-09,52.77,5,support_home@contoso.com,SKU-C342-D45,APAC,Active,2022-10-05T00:00:00,2023-05-16T00:00:00
+C343,Contoso Ultra C30 X,Wearables,C30,2021-01-04,211.46,4,support_wearables@contoso.com,SKU-C343-C30,LATAM,Discontinued,2024-01-08T00:00:00,2024-12-24T00:00:00
+C344,Contoso Edge C25 Mesh,Networking,C25,2024-06-30,96.79,3,support_networking@contoso.com,SKU-C344-C25,APAC,Active,2021-09-13T00:00:00,2022-02-13T00:00:00
+C345,Contoso Nova E20,Wearables,E20,2024-02-10,248.62,3,support_wearables@contoso.com,SKU-C345-E20,EU,Active,2024-09-23T00:00:00,2025-04-05T00:00:00
+C346,Contoso Prime D55 Extender,Networking,D55,2021-01-01,221.51,5,support_networking@contoso.com,SKU-C346-D55,APAC,Active,2023-05-31T00:00:00,2024-03-22T00:00:00
+C347,Contoso Quantum C55,Wearables,C55,2023-11-13,308.92,2,support_wearables@contoso.com,SKU-C347-C55,MEA,Active,2025-06-19T00:00:00,2025-09-13T00:00:00
+C348,Contoso Ultra B50 Extender,Networking,B50,2022-11-18,417.48,5,support_networking@contoso.com,SKU-C348-B50,US,Active,2025-03-19T00:00:00,2025-07-17T00:00:00
+C349,Contoso Nova B30 Router,Networking,B30,2022-05-17,138.57,1,support_networking@contoso.com,SKU-C349-B30,MEA,Active,2025-04-23T00:00:00,2025-05-30T00:00:00
+C350,Contoso Aura X40 Dryer,Appliances,X40,2023-10-10,1548.35,4,support_appliances@contoso.com,SKU-C350-X40,MEA,Active,2024-09-05T00:00:00,2025-08-23T00:00:00
+C351,Contoso Ultra E55 Pro,Audio,E55,2023-08-10,147.48,5,support_audio@contoso.com,SKU-C351-E55,US,Active,2021-09-06T00:00:00,2022-04-27T00:00:00
+C352,"Contoso Pulse E20 75""",Television,E20,2022-10-12,2966.31,5,support_tv@contoso.com,SKU-C352-E20,MEA,Active,2025-01-13T00:00:00,2025-09-28T00:00:00
+C353,Contoso Pulse X45 Dryer,Appliances,X45,2023-07-11,1588.85,4,support_appliances@contoso.com,SKU-C353-X45,APAC,Active,2024-07-29T00:00:00,2024-12-17T00:00:00
+C354,Contoso Pulse E10 Case,Accessories,E10,2025-01-01,47.44,1,support_accessories@contoso.com,SKU-C354-E10,APAC,Active,2022-11-19T00:00:00,2023-05-01T00:00:00
+C355,Contoso Ultra A50 X,Wearables,A50,2024-12-17,199.26,2,support_wearables@contoso.com,SKU-C355-A50,EU,Active,2023-04-15T00:00:00,2023-10-01T00:00:00
+C356,Contoso Pulse C40 S,Wearables,C40,2023-03-09,186.55,4,support_wearables@contoso.com,SKU-C356-C40,LATAM,Discontinued,2021-02-10T00:00:00,2021-12-01T00:00:00
+C357,Contoso Pulse A10 Fridge,Appliances,A10,2023-05-09,876.78,4,support_appliances@contoso.com,SKU-C357-A10,LATAM,Active,2024-01-24T00:00:00,2024-11-27T00:00:00
+C358,"Contoso Pulse B30 55""",Television,B30,2023-03-08,1475.76,1,support_tv@contoso.com,SKU-C358-B30,APAC,Active,2025-06-23T00:00:00,2026-01-16T00:00:00
+C359,Contoso Prime X25 Mesh,Networking,X25,2023-12-30,555.55,5,support_networking@contoso.com,SKU-C359-X25,US,Discontinued,2024-04-27T00:00:00,2025-02-09T00:00:00
+C360,Contoso Alpha A35 Extender,Networking,A35,2022-01-08,290.45,4,support_networking@contoso.com,SKU-C360-A35,US,Active,2022-11-02T00:00:00,2023-02-18T00:00:00
+C361,Contoso Quantum C15 Oven,Appliances,C15,2022-06-01,844.21,4,support_appliances@contoso.com,SKU-C361-C15,US,Active,2025-03-15T00:00:00,2025-12-16T00:00:00
+C362,Contoso Quantum B30 Mini,Audio,B30,2025-03-25,400.55,1,support_audio@contoso.com,SKU-C362-B30,US,Discontinued,2022-02-13T00:00:00,2022-02-23T00:00:00
+C363,Contoso Prime B35 X,Wearables,B35,2024-03-01,325.25,1,support_wearables@contoso.com,SKU-C363-B35,EU,Active,2022-06-09T00:00:00,2022-12-14T00:00:00
+C364,"Contoso Ultra E55 50""",Television,E55,2024-03-31,2903.75,1,support_tv@contoso.com,SKU-C364-E55,US,Discontinued,2024-03-25T00:00:00,2025-03-06T00:00:00
+C365,Contoso Aura E35 Dryer,Appliances,E35,2021-07-28,520.59,2,support_appliances@contoso.com,SKU-C365-E35,APAC,Discontinued,2024-05-14T00:00:00,2024-07-14T00:00:00
+C366,Contoso Alpha C20 Charger,Accessories,C20,2023-11-03,101.61,1,support_accessories@contoso.com,SKU-C366-C20,APAC,Active,2023-05-11T00:00:00,2024-01-16T00:00:00
+C367,Contoso Aura C25 Pro,Audio,C25,2021-12-27,367.29,4,support_audio@contoso.com,SKU-C367-C25,LATAM,Discontinued,2022-07-08T00:00:00,2023-05-19T00:00:00
+C368,Contoso Pulse C55 Charger,Accessories,C55,2022-07-04,124.6,5,support_accessories@contoso.com,SKU-C368-C55,APAC,Discontinued,2021-06-27T00:00:00,2021-11-16T00:00:00
+C369,Contoso Edge E50 Oven,Appliances,E50,2022-11-20,1310.76,4,support_appliances@contoso.com,SKU-C369-E50,US,Active,2022-10-28T00:00:00,2023-01-29T00:00:00
+C370,Contoso Edge C20 Fridge,Appliances,C20,2024-12-07,943.54,5,support_appliances@contoso.com,SKU-C370-C20,APAC,Active,2023-11-25T00:00:00,2024-03-01T00:00:00
+C371,Contoso Edge E40 Pro,Audio,E40,2024-11-15,268.86,2,support_audio@contoso.com,SKU-C371-E40,MEA,Active,2023-10-03T00:00:00,2024-05-19T00:00:00
+C372,Contoso Alpha A35 Dock,Accessories,A35,2022-09-20,40.02,2,support_accessories@contoso.com,SKU-C372-A35,LATAM,Active,2024-02-08T00:00:00,2024-11-05T00:00:00
+C373,Contoso Aura E45 Thermostat,Smart Devices,E45,2022-07-09,165.65,4,support_home@contoso.com,SKU-C373-E45,APAC,Active,2021-09-05T00:00:00,2021-12-12T00:00:00
+C374,Contoso Ultra E45 Light,Smart Devices,E45,2022-07-21,107.95,4,support_home@contoso.com,SKU-C374-E45,LATAM,Discontinued,2023-12-11T00:00:00,2024-10-11T00:00:00
+C375,Contoso Ultra X25 Light,Smart Devices,X25,2022-01-03,145.65,3,support_home@contoso.com,SKU-C375-X25,APAC,Active,2023-12-30T00:00:00,2024-03-03T00:00:00
+C376,Contoso Alpha A25 Thermostat,Smart Devices,A25,2024-07-30,290.07,2,support_home@contoso.com,SKU-C376-A25,MEA,Active,2021-01-26T00:00:00,2021-11-15T00:00:00
+C377,Contoso Pulse D10 Camera,Smart Devices,D10,2022-06-02,161.65,1,support_home@contoso.com,SKU-C377-D10,MEA,Active,2021-05-14T00:00:00,2021-12-05T00:00:00
+C378,Contoso Ultra D40 Washer,Appliances,D40,2022-09-15,641.76,5,support_appliances@contoso.com,SKU-C378-D40,US,Discontinued,2021-08-31T00:00:00,2022-06-12T00:00:00
+C379,Contoso Aura D50 Case,Accessories,D50,2023-07-12,117.6,4,support_accessories@contoso.com,SKU-C379-D50,MEA,Active,2024-04-20T00:00:00,2024-11-25T00:00:00
+C380,Contoso Alpha D55 Hub,Smart Devices,D55,2024-07-05,380.13,2,support_home@contoso.com,SKU-C380-D55,EU,Active,2021-06-16T00:00:00,2021-09-04T00:00:00
+C381,"Contoso Prime D35 43""",Television,D35,2023-07-12,721.64,4,support_tv@contoso.com,SKU-C381-D35,LATAM,Active,2021-03-08T00:00:00,2021-07-04T00:00:00
+C382,Contoso Nova E30 Camera,Smart Devices,E30,2022-06-26,64.62,2,support_home@contoso.com,SKU-C382-E30,LATAM,Active,2022-02-10T00:00:00,2022-09-15T00:00:00
+C383,Contoso Edge E15 Plus,Audio,E15,2021-05-27,457.79,2,support_audio@contoso.com,SKU-C383-E15,US,Active,2022-09-22T00:00:00,2023-07-23T00:00:00
+C384,Contoso Nova C50 Router,Networking,C50,2024-12-04,312.1,3,support_networking@contoso.com,SKU-C384-C50,MEA,Discontinued,2023-10-22T00:00:00,2024-07-24T00:00:00
+C385,Contoso Pulse A35 Washer,Appliances,A35,2024-05-21,1822.08,3,support_appliances@contoso.com,SKU-C385-A35,APAC,Active,2022-04-14T00:00:00,2023-03-25T00:00:00
+C386,Contoso Alpha E50 Dock,Accessories,E50,2023-08-22,89.67,2,support_accessories@contoso.com,SKU-C386-E50,LATAM,Active,2022-07-24T00:00:00,2022-10-24T00:00:00
+C387,Contoso Aura E10,Wearables,E10,2022-12-14,582.91,4,support_wearables@contoso.com,SKU-C387-E10,MEA,Active,2024-10-04T00:00:00,2024-11-26T00:00:00
+C388,Contoso Prime C15 Charger,Accessories,C15,2024-09-18,106.11,3,support_accessories@contoso.com,SKU-C388-C15,MEA,Active,2024-02-01T00:00:00,2024-02-19T00:00:00
+C389,Contoso Ultra C10 Fridge,Appliances,C10,2023-11-20,916.24,4,support_appliances@contoso.com,SKU-C389-C10,US,Active,2024-01-17T00:00:00,2024-09-09T00:00:00
+C390,Contoso Alpha B20 Fridge,Appliances,B20,2024-07-04,1395.21,4,support_appliances@contoso.com,SKU-C390-B20,MEA,Active,2022-02-21T00:00:00,2022-07-07T00:00:00
+C391,Contoso Prime X55 Pro,Wearables,X55,2021-09-06,306.82,4,support_wearables@contoso.com,SKU-C391-X55,US,Discontinued,2024-05-31T00:00:00,2024-09-30T00:00:00
+C392,Contoso Prime B55 Extender,Networking,B55,2021-07-10,66.38,4,support_networking@contoso.com,SKU-C392-B55,EU,Discontinued,2021-08-21T00:00:00,2022-04-14T00:00:00
+C393,Contoso Prime D15,Audio,D15,2023-05-01,277.99,3,support_audio@contoso.com,SKU-C393-D15,MEA,Discontinued,2022-05-15T00:00:00,2023-01-03T00:00:00
+C394,Contoso Prime C30 X,Wearables,C30,2025-03-09,558.37,5,support_wearables@contoso.com,SKU-C394-C30,EU,Discontinued,2022-07-20T00:00:00,2023-02-17T00:00:00
+C395,Contoso Nova X20 Hub,Smart Devices,X20,2024-04-17,140.82,3,support_home@contoso.com,SKU-C395-X20,LATAM,Discontinued,2023-09-30T00:00:00,2023-12-15T00:00:00
+C396,Contoso Pulse C20 Fridge,Appliances,C20,2023-02-12,1282.07,5,support_appliances@contoso.com,SKU-C396-C20,MEA,Discontinued,2022-01-22T00:00:00,2023-01-14T00:00:00
+C397,"Contoso Aura B30 65""",Television,B30,2024-12-15,416.85,4,support_tv@contoso.com,SKU-C397-B30,MEA,Active,2024-09-21T00:00:00,2025-08-20T00:00:00
+C398,"Contoso Pulse A20 50""",Television,A20,2022-11-11,1655.19,5,support_tv@contoso.com,SKU-C398-A20,US,Discontinued,2023-06-21T00:00:00,2023-08-11T00:00:00
+C399,Contoso Pulse A10 X,Wearables,A10,2021-06-03,292.19,2,support_wearables@contoso.com,SKU-C399-A10,MEA,Active,2022-06-27T00:00:00,2022-12-17T00:00:00
+C400,Contoso Aura E15 S,Wearables,E15,2023-02-18,521.92,5,support_wearables@contoso.com,SKU-C400-E15,APAC,Active,2025-04-05T00:00:00,2025-12-10T00:00:00
+C401,Contoso Alpha D55 Cable,Accessories,D55,2022-04-11,41.87,3,support_accessories@contoso.com,SKU-C401-D55,US,Active,2021-07-21T00:00:00,2022-06-10T00:00:00
+C402,Contoso Ultra C50 Router,Networking,C50,2021-04-05,433.76,1,support_networking@contoso.com,SKU-C402-C50,APAC,Active,2022-08-24T00:00:00,2023-02-23T00:00:00
+C403,Contoso Aura A55 Light,Smart Devices,A55,2024-10-28,230.22,5,support_home@contoso.com,SKU-C403-A55,EU,Active,2021-06-11T00:00:00,2022-04-19T00:00:00
+C404,Contoso Aura D55 Case,Accessories,D55,2021-10-21,78.67,5,support_accessories@contoso.com,SKU-C404-D55,EU,Active,2022-06-05T00:00:00,2023-01-26T00:00:00
+C405,Contoso Alpha X45 Camera,Smart Devices,X45,2021-11-20,363.44,5,support_home@contoso.com,SKU-C405-X45,US,Active,2022-12-09T00:00:00,2023-10-05T00:00:00
+C406,Contoso Aura E30 Thermostat,Smart Devices,E30,2022-02-12,203.46,3,support_home@contoso.com,SKU-C406-E30,MEA,Discontinued,2021-08-07T00:00:00,2021-12-06T00:00:00
+C407,Contoso Quantum D40 Fridge,Appliances,D40,2021-02-14,1987.31,3,support_appliances@contoso.com,SKU-C407-D40,MEA,Active,2024-03-05T00:00:00,2025-02-19T00:00:00
+C408,Contoso Alpha X50 Charger,Accessories,X50,2025-05-08,125.6,3,support_accessories@contoso.com,SKU-C408-X50,EU,Active,2022-12-23T00:00:00,2023-04-14T00:00:00
+C409,Contoso Edge D55 Mesh,Networking,D55,2024-07-10,424.99,2,support_networking@contoso.com,SKU-C409-D55,US,Discontinued,2024-08-16T00:00:00,2024-09-05T00:00:00
+C410,Contoso Pulse A20 Thermostat,Smart Devices,A20,2022-08-28,302.65,1,support_home@contoso.com,SKU-C410-A20,APAC,Active,2021-12-26T00:00:00,2022-04-07T00:00:00
+C411,"Contoso Quantum D25 75""",Television,D25,2022-06-11,2765.41,2,support_tv@contoso.com,SKU-C411-D25,MEA,Discontinued,2022-08-28T00:00:00,2023-02-17T00:00:00
+C412,Contoso Ultra C55 Cable,Accessories,C55,2024-10-17,28.71,2,support_accessories@contoso.com,SKU-C412-C55,MEA,Discontinued,2024-02-16T00:00:00,2024-08-21T00:00:00
+C413,Contoso Aura A10,Audio,A10,2023-01-25,290.46,4,support_audio@contoso.com,SKU-C413-A10,APAC,Active,2024-07-31T00:00:00,2025-02-06T00:00:00
+C414,Contoso Edge D10 Mini,Audio,D10,2022-11-03,327.8,5,support_audio@contoso.com,SKU-C414-D10,LATAM,Active,2021-05-10T00:00:00,2022-03-31T00:00:00
+C415,Contoso Pulse X50 Dock,Accessories,X50,2021-10-14,99.89,1,support_accessories@contoso.com,SKU-C415-X50,US,Discontinued,2022-09-16T00:00:00,2023-05-26T00:00:00
+C416,Contoso Ultra B35 Plus,Audio,B35,2024-10-05,223.89,3,support_audio@contoso.com,SKU-C416-B35,LATAM,Active,2025-03-01T00:00:00,2025-05-19T00:00:00
+C417,Contoso Ultra X25 Oven,Appliances,X25,2021-03-09,1384.04,3,support_appliances@contoso.com,SKU-C417-X25,APAC,Active,2023-06-30T00:00:00,2023-10-28T00:00:00
+C418,Contoso Quantum A40 Dock,Accessories,A40,2021-05-05,85.23,3,support_accessories@contoso.com,SKU-C418-A40,MEA,Active,2021-09-08T00:00:00,2022-04-28T00:00:00
+C419,Contoso Edge E15 Mini,Audio,E15,2022-05-14,71.76,3,support_audio@contoso.com,SKU-C419-E15,EU,Active,2022-02-25T00:00:00,2022-04-01T00:00:00
